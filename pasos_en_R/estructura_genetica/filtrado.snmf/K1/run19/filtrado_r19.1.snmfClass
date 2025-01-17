@@ -1,0 +1,5 @@
+new("snmfClass", directory = "K1/run19/", snmfClass.file = "filtrado_r19.1.snmfClass", 
+    K = 1L, run = 19L, CPU = 1L, seed = 581161273L, alpha = 10, 
+    percentage = 0.05, I = 0L, iterations = 100L, entropy = TRUE, 
+    tolerance = 1e-05, crossEntropy = 0.586395093105002, ploidy = 2L, 
+    Q.input.file = "", Q.output.file = "filtrado_r19.1.Q", G.output.file = "filtrado_r19.1.G")

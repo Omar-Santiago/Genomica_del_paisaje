@@ -1,0 +1,28 @@
+{
+    "id": "91B72C53",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1735021475338.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "id": "1b77f503b7094342900b4b3fae35f55f",
+        "name": "vcf_estructura",
+        "title": "vcf_estructura",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2192926857128,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1735021475338,
+    "read_only": false,
+    "read_only_alternatives": []
+}

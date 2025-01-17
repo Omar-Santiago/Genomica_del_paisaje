@@ -1,0 +1,15 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf bosque_limpios.recode.vcf
+	--recode-INFO-all
+	--out snps_limpios
+	--recode
+	--exclude todos_loci_eliminados.txt
+
+After filtering, kept 190 out of 190 Individuals
+Outputting VCF file...
+After filtering, kept 3175 out of a possible 6938 Sites
+Run Time = 3.00 seconds

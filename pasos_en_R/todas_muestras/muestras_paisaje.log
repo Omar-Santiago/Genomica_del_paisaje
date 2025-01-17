@@ -1,0 +1,16 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf todos_snps_limpios.recode.vcf
+	--keep muestras_bosque.txt
+	--recode-INFO-all
+	--out muestras_paisaje
+	--recode
+
+Keeping individuals in 'keep' list
+After filtering, kept 190 out of 377 Individuals
+Outputting VCF file...
+After filtering, kept 2514 out of a possible 2514 Sites
+Run Time = 3.00 seconds

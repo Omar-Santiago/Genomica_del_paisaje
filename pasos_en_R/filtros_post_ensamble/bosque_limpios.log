@@ -1,0 +1,16 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf PNDL.recode.vcf
+	--recode-INFO-all
+	--out bosque_limpios
+	--recode
+	--remove-indv PP2_NNAP1
+
+Excluding individuals in 'exclude' list
+After filtering, kept 190 out of 191 Individuals
+Outputting VCF file...
+After filtering, kept 6938 out of a possible 6938 Sites
+Run Time = 4.00 seconds

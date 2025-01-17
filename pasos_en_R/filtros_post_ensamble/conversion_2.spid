@@ -1,0 +1,21 @@
+# spid-file generated: Mon Dec 30 11:41:44 CST 2024
+
+# GENEPOP Parser questions
+PARSER_FORMAT=GENEPOP
+
+# Select the type of the data: (MICROSAT/SNP/STANDARD)
+GENEPOP_PARSER_DATA_TYPE_QUESTION=SNP
+# How are Microsat alleles coded? (REPEATS/LENGTH)
+GENEPOP_PARSER_MICROSAT_CODING_QUESTION=REPEATS
+
+# VCF Writer questions
+WRITER_FORMAT=VCF
+
+# Save an additional file with reference sequences (non-ambiguity consensus sequences)
+VCF_WRITER_REFERENCE_FILE_QUESTION=
+# Specify which data should be included in the VCF file: (SEQUENCES/SNP)
+VCF_WRITER_DATA_TYPE_QUESTION=SEQUENCES
+# Randomly subsample the following number of SNPs:
+VCF_RANDOM_QUESTION=
+# If SNP data are encoded as numbers,  enter the integers that code for nucleotide A, T, C, G (comma separated, e.g 1,2,3,4):
+VCF_WRITER_SNP_CODE_QUESTION=
