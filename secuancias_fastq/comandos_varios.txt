@@ -1,0 +1,43 @@
+# líneas de comando variadas
+
+# como ver las capacidades de tu computadora
+free -h # memoria ram
+lscpu # cpu
+df -h # almacenamiento
+lspci | grep -i vga # gpu
+
+# como hacer un script ejecutable 
+# poner al inicio:  #!/bin/bash
+# después darle permisos de ejecución
+chmod +x mi_script_ejemplo.sh
+
+# Los discos y particiones de Windows están montados automáticamente dentro de WSL en el directorio /mnt.
+# Convertir rutas de Windows a WSL: wslpath "D:\proyectos\data.txt"
+# Salida: /mnt/d/proyectos/data.txt
+
+
+## gunzip descomprime el archivp, la flag -c significa que se muestre en la pantalla,
+## y `less` dice que imprima las 100 primeras líneas 
+zless 100 my_R1_input_file.fastq.gz
+
+# si no jala un script previamente editado en el bloc de nostas usar el siguiente comando para eliminar caracteres especiales:
+sed -i 's/\r$//' 2_ejemplo.sh
+
+# Inicializa Conda correctamente
+conda init bash
+source ~/.bashrc
+conda env list
+conda activate base
+conda list | grep trimmomatic
+find $CONDA_PREFIX -name "trimmomatic*.jar"
+
+# Simplificar la ejecución (opcional)
+# Si planeas usar Trimmomatic con frecuencia, puedes crear un alias para evitar escribir la ruta completa cada vez:
+nano ~/.bashrc
+#Añade esta línea al final del archivo:
+alias trimmomatic='java -jar /home/omar_2000/miniconda3/share/trimmomatic-0.39-2/trimmomatic.jar'
+# Guarda y recarga
+source ~/.bashrc
+
+plink --vcf vcfR_miss0.85.vcf.gz --double-id --allow-extra-chr --set-missing-var-ids @:# --make-bed --out iss0.85
+
