@@ -30,7 +30,7 @@ rm(list = ls())
 
 ########## filtros #########
 
-vcfR_0 <- read.vcfR("F:/salida_cluster/populations.snps.vcf")
+vcfR_0 <- read.vcfR("F:/Gih/Genomica_del_paisaje/salida_cluster/populations.snps.vcf")
 vcfR_0
 
 # eliminamos los loci con una profundidad menor a 10
@@ -46,6 +46,7 @@ vcfR_2
 max_depth(vcfR_2)
 vcfR_3<-max_depth(vcfR_2, maxdepth = 100)
 max_depth(vcfR_3)
+vcfR_3
 
 # eliminamos individuos con missing data mayor al 90%
 popmap <- read.csv("popmap_placa.csv", header = T)
@@ -63,6 +64,11 @@ vcfR_5
 #miss<-assess_missing_data_pca(vcfR=vcfR_5, popmap = popmap, thresholds = c(.5,.6,.7,.8), clustering = FALSE)
 vcfR_miss0.75<-missing_by_snp(vcfR_5, cutoff = .75)
 vcfR_miss0.75
+
+# eliminamos singletons
+vcfR_5_2<-min_mac(vcfR_miss0.75, min.mac = 2)
+vcfR_5_2
+
 
 # eliminamos locus en desequilibrio de ligamiento
 pre_vcf <- distance_thin(vcfR_miss0.75, min.distance = 100)
