@@ -4,7 +4,7 @@
 # cortar o eliminar las secuancias con calidad menor a 20 o 25 
 # eliminar adaptadores de illumina
 # elimar las secuencias de poli G (errores de illumina)
-# eliminar las secuancias de 30pb o menos
+# eliminar las secuancias de 140pb o menos
 # cortar los extremos 3 y 5, ademas, hacer el recorte por ventanas deslizantes
 # hacer una correccion de la calidad al empalmar las dos secuancias foward y reverse
 

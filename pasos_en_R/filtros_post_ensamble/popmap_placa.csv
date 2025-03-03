@@ -1,4 +1,4 @@
-﻿id ,placa
+﻿id,pop
 G89_N11P30,placa1
 E51_N11P15,placa1
 I97_N11P34,placa1
@@ -94,7 +94,6 @@ K63_N7P17,placa1
 G124_N7P35,placa1
 F67_N9P18,placa1
 H8_N6P6,placa1
-Blanco01,placa1
 D65_N7P18,placa2
 E22_N6P5,placa2
 PP1_NNAP1,placa2
@@ -190,8 +189,6 @@ K71_N12P20,placa2
 F3_N8P1,placa2
 E47_N11P11,placa2
 H31_N5P9,placa2
-Blanco_02,placa2
-Blank_03,placa3
 CA04_N04TAF,placa3
 E67_NNAP22,placa3
 I65_N23P24,placa3
@@ -287,7 +284,6 @@ AE13_N04TAF,placa3
 CC20_N04TAF,placa3
 M26_NNAP34,placa3
 AX17_N04TAF,placa3
-Blank_04,placa4
 CC24_N04TAF,placa4
 VS02_1516,placa4
 AX08_N04TAF,placa4
@@ -371,7 +367,7 @@ CA21_N04TAF,placa4
 AX16_N04TAF,placa4
 D163_N18P43,placa4
 J75_N06P20,placa4
-F101r_N09P32,placa4
+F101r_N9P32,placa4
 CA28_N04TAF,placa4
 I96_N10P34,placa4
 B84_NNAP24,placa4

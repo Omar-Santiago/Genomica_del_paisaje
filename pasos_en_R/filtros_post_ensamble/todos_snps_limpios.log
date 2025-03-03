@@ -1,0 +1,15 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf vcfR_p.recode.vcf
+	--recode-INFO-all
+	--out todos_snps_limpios
+	--recode
+	--exclude outliers_efecto_placa_todos.txt
+
+After filtering, kept 377 out of 377 Individuals
+Outputting VCF file...
+After filtering, kept 1983 out of a possible 2132 Sites
+Run Time = 3.00 seconds

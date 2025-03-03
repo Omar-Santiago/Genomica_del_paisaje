@@ -4,7 +4,7 @@ src=/mnt/f/trim
 
 #\n
 
-./
+#./
 
 files=$(echo -e "A1_N10P2
 A10_N07P06
