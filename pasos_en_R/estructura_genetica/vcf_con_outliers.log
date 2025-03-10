@@ -1,0 +1,15 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf /mnt/f/Gih/Genomica_del_paisaje/pasos_en_R/filtros_post_ensamble/muestras_paisaje.recode.vcf
+	--recode-INFO-all
+	--out vcf_con_outliers
+	--recode
+	--snps out_pop_daño.txt
+
+After filtering, kept 190 out of 190 Individuals
+Outputting VCF file...
+After filtering, kept 140 out of a possible 1983 Sites
+Run Time = 5.00 seconds

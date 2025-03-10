@@ -1,0 +1,15 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf /mnt/f/Gih/Genomica_del_paisaje/pasos_en_R/todas_muestras/muestras_paisaje.recode.vcf
+	--recode-INFO-all
+	--out paisaje_prueba
+	--recode
+	--exclude efecto_placa3.txt
+
+After filtering, kept 190 out of 190 Individuals
+Outputting VCF file...
+After filtering, kept 2439 out of a possible 2514 Sites
+Run Time = 2.00 seconds
