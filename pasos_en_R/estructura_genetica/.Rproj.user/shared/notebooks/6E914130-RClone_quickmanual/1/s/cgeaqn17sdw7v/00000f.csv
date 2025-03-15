@@ -1,0 +1,6 @@
+"0","#Use :
+data1 <- convert_GC(as.data.frame(test), 3, ""/"")
+"
+"2","Error en convert_GC(as.data.frame(test), 3, ""/""): 
+  no se pudo encontrar la función ""convert_GC""
+"

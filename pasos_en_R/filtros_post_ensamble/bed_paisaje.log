@@ -1,0 +1,15 @@
+PLINK v2.00a5.12LM 64-bit Intel (25 Jun 2024)
+Options in effect:
+  --chr-set 2000 no-xy no-mt
+  --make-bed
+  --out bed_paisaje
+  --vcf muestras_paisaje_normalized.vcf
+
+Hostname: DESKTOP-TAOBM27
+Working directory: /mnt/f/Gih/Genomica_del_paisaje/pasos_en_R/filtros_post_ensamble
+Start time: Thu Mar  6 13:35:36 2025
+
+Error: Invalid --chr-set argument '2000'.
+For more info, try "plink2 --help <flag name>" or "plink2 --help | more".
+
+End time: Thu Mar  6 13:35:36 2025

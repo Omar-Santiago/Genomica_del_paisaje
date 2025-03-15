@@ -1,0 +1,373 @@
+tree_id,Plate_Number,Well_Coordinates,Sample_Name_Plate,Species,person_key_GBS,Nodes_GBS,Plot_GBS,ID_sample_correct,Treatment,locality_key,plot,tree_health,X_coordinates_latitude,X_coordinates_longitude,X_coordinates_altitude,person_key,tree_number,tree_diameter_category,tree_heigth,tree_nodes,ozone_damage_percentage,other_damages_percentage,other_damages_percentage.less_10,other_damages_percentage.10.40,other_damages_percentage.50,other_damages_percentage.50.70,other_damages_percentage.70.100,bud,branch_nodes,nodes_with_leaves,cones,cone_sex,tree_exposition,surronding_vegetation.fir,surronding_vegetation.pine,surronding_vegetation.oak,surronding_vegetation.bush,surronding_vegetation.grass,surronding_vegetation.other,reforested
+A1,P1,B10,A1_N10P2,Abies religiosa,A,10,2,A1_N10P02,forest,CX,2,healthy,19.2909843,-99.2989938,3517.2,A,1,10_cm,4,10,NA,NA,NA,NA,NA,NA,NA,closed,5,5,no,NA,cover,0,0,0,0,1,0,yes
+A10,P3,B12,A10_N07P06,Abies religiosa,A,7,6,A10_N07P06,forest,CX,6,ozone,19.2924916,-99.2989653,3486.7,A,10,2_cm,2.4,7,40 to 50%,NA,NA,NA,NA,NA,NA,closed,6,4,no,NA,cover,1,0,0,0,0,1,no
+A102,P4,H8,A102_N11P37,Abies religiosa,A,11,37,A102_N11P37,forest,PN,37,ozone other,19.2838672,-99.3165321,3198.4,A,102,6_cm,7.5,11,50 to 70%,NA,NA,NA,NA,NA,NA,not_visible,8,3,no,NA,cover,1,0,0,0,0,1,no
+A115,P4,D12,A115_N12P40,Abies religiosa,A,12,40,A115_N12P40,forest,PN,40,ozone drougth,19.2744719,-99.3070187,3479.4,A,115,30_cm,7.5,12,less than 10%,NA,NA,NA,NA,NA,NA,closed,7,5,no,NA,cover,0,1,0,1,1,1,no
+A122,P4,F10,A122_N03P40,Abies religiosa,A,3,40,A122_N03P40,forest,PN,40,healthy,19.2735842,-99.3064146,3482.1,A,122,0.5_cm,0.4,3,NA,NA,NA,NA,NA,NA,NA,closed,2,2,no,NA,cover,0,0,0,1,1,1,no
+A131,P1,B7,A131_N10P46,Abies religiosa,A,10,46,A131_N10P46,forest,CX,46,healthy,19.2921842,-99.2950591,3456.45675,A,131,40_cm,9,10,NA,NA,NA,NA,NA,NA,NA,open,5,2,no,NA,cover,1,0,0,0,1,0,no
+A135,P4,A4,A135_N08P46,Abies religiosa,A,8,46,A135_N08P46,forest,CX,46,ozone drougth other,19.2943068,-99.2963748,3468.814666,A,135,30_cm,10,8,less than 10%,NA,NA,NA,NA,NA,NA,closed,4,1,no,NA,cover,1,0,1,0,0,0,no
+A18,P2,D10,A18_N7P6,Abies religiosa,A,7,6,A18_N07P06,forest,CX,6,healthy,19.2927142,-99.2988703,3481.7,A,18,6_cm,2.5,7,NA,NA,NA,NA,NA,NA,NA,closed,5,5,no,NA,cover,0,1,0,1,1,0,no
+A19,P1,C12,A19_N5P6,Abies religiosa,A,5,6,A19_N05P06,forest,CX,6,healthy,19.2925286,-99.298936,3481.7,A,19,1_cm,1,5,NA,NA,NA,NA,NA,NA,NA,closed,2,2,no,NA,cover,1,0,0,0,1,0,no
+A22,P4,A12,A22_N09p09,Abies religiosa,A,9,9,A22_N09P09,forest,CX,9,healthy,19.2909322,-99.3025716,3528.5,A,22,6_cm,4.5,9,NA,NA,NA,NA,NA,NA,NA,closed,7,7,no,NA,cover,0,0,0,1,1,0,no
+A27,P2,F11,A27_N8P9,Abies religiosa,A,8,9,A27_N08P09,forest,CX,9,healthy,19.2909231,-99.3026466,3532.5,A,27,6_cm,4.7,8,NA,NA,NA,NA,NA,NA,NA,closed,6,4,no,NA,cover,0,0,0,0,1,0,no
+A34,P2,D6,A34_NNAP12,Abies religiosa,A,NA,12,A34_NNAP12,forest,CX,12,ozone,19.2912656,-99.3060372,3547.8,A,34,40_cm,38,NA,10 to 40%,NA,NA,NA,NA,NA,NA,closed,11,11,yes,NA,exposed,1,0,0,0,1,0,no
+A38,P1,H7,A38_N5P12,Abies religiosa,A,5,12,A38_N05P12,forest,CX,12,healthy,19.2912379,-99.3062224,3484.8,A,38,0.5_cm,0.45,5,NA,NA,NA,NA,NA,NA,NA,closed,3,3,no,NA,cover,0,0,0,0,1,1,no
+A4,P2,H10,A4_N8P2,Abies religiosa,A,8,2,A4_N08P02,forest,CX,2,healthy,19.2908661,-99.2991288,3503.1,A,4,6_cm,3.4,8,NA,NA,NA,NA,NA,NA,NA,closed,4,4,no,NA,cover,0,0,0,0,1,0,yes
+A44,P4,G10,A44_N10P14,Abies religiosa,A,10,14,A44_N10P14,forest,CX,14,healthy,19.2924565,-99.306177,3487,A,44,2_cm,1.85,10,NA,NA,NA,NA,NA,NA,NA,closed,6,5,no,NA,cover,0,0,0,1,0,1,no
+A82,P4,E12,A82_N15P36,Abies religiosa,A,15,36,A82_N15P36,forest,PN,36,ozone drougth other,19.2963365,-99.3189188,3137.6,A,82,30_cm,11.5,15,40 to 50%,NA,NA,NA,NA,NA,NA,closed,14,14,no,NA,cover,0,0,0,1,1,1,no
+AE01,P3,F9,AE01_N04TAF,Abies religiosa,chamber,4,chambers,AE01_N04TAF,ambient_air_IE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AE02,P3,A12,AE02_N04TAF,Abies religiosa,chamber,4,chambers,AE02_N04TAF,ambient_air_IE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AE05,P3,A9,AE05_N04TAF,Abies religiosa,chamber,4,chambers,AE05_N04TAF,ambient_air_IE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AE06,P3,C8,AE06_N04TAF,Abies religiosa,chamber,4,chambers,AE06_N04TAF,ambient_air_IE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AE08,P4,F3,AE08_N04TAF,Abies religiosa,chamber,4,chambers,AE08_N04TAF,ambient_air_IE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AE10,P4,C8,AE10_N04TAF,Abies religiosa,chamber,4,chambers,AE10_N04TAF,ambient_air_IE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AE12,P4,G4,AE12_N04TAF,Abies religiosa,chamber,4,chambers,AE12_N04TAF,ambient_air_IE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AE13,P3,E12,AE13_N04TAF,Abies religiosa,chamber,4,chambers,AE13_N04TAF,ambient_air_IE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AE14,P4,G5,AE14_N04TAF,Abies religiosa,chamber,4,chambers,AE14_N04TAF,ambient_air_IE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AE15,P3,A2,AE15_N04TAF,Abies religiosa,chamber,4,chambers,AE15_N04TAF,ambient_air_IE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AE16,P4,E9,AE16_N04TAF,Abies religiosa,chamber,4,chambers,AE16_N04TAF,ambient_air_IE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AE18,P4,D5,AE18_N04TAF,Abies religiosa,chamber,4,chambers,AE18_N04TAF,ambient_air_IE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AE19,P3,D6,AE19_N04TAF,Abies religiosa,chamber,4,chambers,AE19_N04TAF,ambient_air_IE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AE22,P4,C5,AE22_N04TAF,Abies religiosa,chamber,4,chambers,AE22_N04TAF,ambient_air_IE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AE23,P3,A4,AE23_N04TAF,Abies religiosa,chamber,4,chambers,AE23_N04TAF,ambient_air_IE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AE24,P3,D7,AE24_N04TAF,Abies religiosa,chamber,4,chambers,AE24_N04TAF,ambient_air_IE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AE25,P4,B12,AE25_N04TAF,Abies religiosa,chamber,4,chambers,AE25_N04TAF,ambient_air_IE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AE28,P4,E1,AE28_N04TAF,Abies religiosa,chamber,4,chambers,AE28_N04TAF,ambient_air_IE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AE29,P4,H5,AE29_N04TAF,Abies religiosa,chamber,4,chambers,AE29_N04TAF,ambient_air_IE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AMP01,P3,G4,AMP01_NNAPNA,Abies religiosa,mother,NA,NA,AMP01_NNAPNA,actual_mother,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AMP02,P4,G3,AMP02_NNAPNA,Abies religiosa,mother,NA,NA,AMP02_NNAPNA,actual_mother,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AMP03,P3,H6,AMP03_NNAPNA,Abies religiosa,mother,NA,NA,AMP03_NNAPNA,actual_mother,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AMP04,P4,H7,AMP04_NNAPNA,Abies religiosa,mother,NA,NA,AMP04_NNAPNA,actual_mother,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AMP05,P3,G7,AMP05_NNAPNA,Abies religiosa,mother,NA,NA,AMP05_NNAPNA,actual_mother,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AMP05r,P3,F11,AMP05r_NNAPNA,Abies religiosa,mother,NA,NA,AMP05r_NNAPNA,actual_mother,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AMP06,P4,D6,AMP06_NNAPNA,Abies religiosa,mother,NA,NA,AMP06_NNAPNA,actual_mother,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AMP07,P3,C7,AMP07_NNAPNA,Abies religiosa,mother,NA,NA,AMP07_NNAPNA,actual_mother,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AMP08,P4,B3,AMP08_NNAPNA,Abies religiosa,mother,NA,NA,AMP08_NNAPNA,actual_mother,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AMP08r,P3,A3,AMP08r_NNAPNA,Abies religiosa,mother,NA,NA,AMP08r_NNAPNA,actual_mother,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AP01,P4,F2,AP01_N04TAF,Abies religiosa,chamber,4,chambers,AP01_N04TAF,purified_air,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AP02,P4,B9,AP02_N04TAF,Abies religiosa,chamber,4,chambers,AP02_N04TAF,purified_air,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AP03,P3,D12,AP03_N04TAF,Abies religiosa,chamber,4,chambers,AP03_N04TAF,purified_air,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AP05,P3,B2,AP05_N04TAF,Abies religiosa,chamber,4,chambers,AP05_N04TAF,purified_air,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AP09,P3,H11,AP09_N04TAF,Abies religiosa,chamber,4,chambers,AP09_N04TAF,purified_air,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AP10,P3,G9,AP10_N04TAF,Abies religiosa,chamber,4,chambers,AP10_N04TAF,purified_air,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AP11,P4,F7,AP11_N04TAF,Abies religiosa,chamber,4,chambers,AP11_N04TAF,purified_air,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AP12,P4,C3,AP12_N04TAF,Abies religiosa,chamber,4,chambers,AP12_N04TAF,purified_air,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AP13,P4,D3,AP13_N04TAF,Abies religiosa,chamber,4,chambers,AP13_N04TAF,purified_air,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AP14,P3,B3,AP14_N04TAF,Abies religiosa,chamber,4,chambers,AP14_N04TAF,purified_air,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AP16,P3,D3,AP16_N04TAF,Abies religiosa,chamber,4,chambers,AP16_N04TAF,purified_air,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AP17,P3,B11,AP17_N04TAF,Abies religiosa,chamber,4,chambers,AP17_N04TAF,purified_air,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AP20,P3,H10,AP20_N04TAF,Abies religiosa,chamber,4,chambers,AP20_N04TAF,purified_air,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AP22,P3,C3,AP22_N04TAF,Abies religiosa,chamber,4,chambers,AP22_N04TAF,purified_air,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AP25,P3,A7,AP25_N04TAF,Abies religiosa,chamber,4,chambers,AP25_N04TAF,purified_air,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AP26,P3,D5,AP26_N04TAF,Abies religiosa,chamber,4,chambers,AP26_N04TAF,purified_air,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AP27,P4,A8,AP27_N04TAF,Abies religiosa,chamber,4,chambers,AP27_N04TAF,purified_air,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AP29,P4,D10,AP29_N04TAF,Abies religiosa,chamber,4,chambers,AP29_N04TAF,purified_air,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AP30,P4,C10,AP30_N04TAF,Abies religiosa,chamber,4,chambers,AP30_N04TAF,purified_air,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AX03,P4,H2,AX03_N04TAF,Abies religiosa,chamber,4,chambers,AX03_N04TAF,ambient_air_SRX,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AX05,P4,G1,AX05_N04TAF,Abies religiosa,chamber,4,chambers,AX05_N04TAF,ambient_air_SRX,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AX07,P3,D8,AX07_N04TAF,Abies religiosa,chamber,4,chambers,AX07_N04TAF,ambient_air_SRX,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AX08,P4,D1,AX08_N04TAF,Abies religiosa,chamber,4,chambers,AX08_N04TAF,ambient_air_SRX,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AX09,P4,F12,AX09_N04TAF,Abies religiosa,chamber,4,chambers,AX09_N04TAF,ambient_air_SRX,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AX10,P3,E11,AX10_N04TAF,Abies religiosa,chamber,4,chambers,AX10_N04TAF,ambient_air_SRX,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AX12,P3,F2,AX12_N04TAF,Abies religiosa,chamber,4,chambers,AX12_N04TAF,ambient_air_SRX,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AX13,P4,E6,AX13_N04TAF,Abies religiosa,chamber,4,chambers,AX13_N04TAF,ambient_air_SRX,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AX14,P4,F8,AX14_N04TAF,Abies religiosa,chamber,4,chambers,AX14_N04TAF,ambient_air_SRX,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AX15,P4,A7,AX15_N04TAF,Abies religiosa,chamber,4,chambers,AX15_N04TAF,ambient_air_SRX,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AX16,P4,B11,AX16_N04TAF,Abies religiosa,chamber,4,chambers,AX16_N04TAF,ambient_air_SRX,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AX17,P3,H12,AX17_N04TAF,Abies religiosa,chamber,4,chambers,AX17_N04TAF,ambient_air_SRX,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AX19,P4,H1,AX19_N04TAF,Abies religiosa,chamber,4,chambers,AX19_N04TAF,ambient_air_SRX,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AX21,P4,A6,AX21_N04TAF,Abies religiosa,chamber,4,chambers,AX21_N04TAF,ambient_air_SRX,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AX22,P3,D11,AX22_N04TAF,Abies religiosa,chamber,4,chambers,AX22_N04TAF,ambient_air_SRX,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AX25,P3,B9,AX25_N04TAF,Abies religiosa,chamber,4,chambers,AX25_N04TAF,ambient_air_SRX,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AX26,P3,E8,AX26_N04TAF,Abies religiosa,chamber,4,chambers,AX26_N04TAF,ambient_air_SRX,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AX27,P3,E4,AX27_N04TAF,Abies religiosa,chamber,4,chambers,AX27_N04TAF,ambient_air_SRX,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AX28,P4,H4,AX28_N04TAF,Abies religiosa,chamber,4,chambers,AX28_N04TAF,ambient_air_SRX,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B103,P2,C4,B103_N11P34,Abies religiosa,B,11,34,B103_N11P34,forest,PN,34,healthy,19.2953122,-99.3194378,3132.824707,B,103,2_cm,3.2,11,NA,NA,NA,NA,NA,NA,NA,closed,7,3,no,NA,exposed,0,0,0,1,1,1,no
+B103r,P1,A4,B103r_N11P34,Abies religiosa,B,11,34,B103r_N11P34,forest,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B105,P1,C6,B105_N5P34,Abies religiosa,B,5,34,B105_N05P34,forest,PN,34,healthy,19.295374,-99.319505,3128.680908,B,105,1_cm,0.5,5,NA,NA,NA,NA,NA,NA,NA,closed,3,2,no,NA,cover,1,0,0,1,1,1,yes
+B109,P3,A5,B109_N05P34,Abies religiosa,B,5,34,B109_N05P34,forest,PN,34,healthy,19.295404,-99.319428,3127.019531,B,109,1_cm,0.45,5,NA,NA,NA,NA,NA,NA,NA,closed,4,2,no,NA,cover,1,0,0,1,1,1,no
+B113,P3,A8,B113_N05P34,Abies religiosa,B,5,34,B113_N05P34,forest,PN,34,healthy,19.2954079,-99.319376,3124.056641,B,113,1_cm,0.45,5,NA,NA,NA,NA,NA,NA,NA,closed,3,2,no,NA,exposed,1,0,0,1,1,1,no
+B84,P4,H11,B84_NNAP24,Abies religiosa,B,NA,24,B84_NNAP24,forest,CX,24,ozone drougth other,19.3019313,-99.2923996,3149.814941,B,84,40_cm,17,NA,10 to 40%,NA,NA,NA,NA,NA,NA,closed,10,3,not_sure,NA,exposed,0,0,0,1,1,1,no
+B89,P2,A12,B89_NNAP25,Abies religiosa,B,NA,25,B89_NNAP25,forest,CX,25,healthy,19.3068419,-99.2912672,3044.737061,B,89,40_cm,30,NA,NA,NA,NA,NA,NA,NA,NA,closed,17,3,yes,female,exposed,1,0,0,1,1,1,no
+B96,P2,F6,B96_N15P33,Abies religiosa,B,15,33,B96_N15P33,forest,CX,33,healthy,19.2989612,-99.2992479,3445.226074,B,96,30_cm,12,15,NA,NA,NA,NA,NA,NA,NA,closed,13,3,no,NA,exposed,1,0,0,1,1,1,no
+C101,P4,B8,C101_N08P37,Abies religiosa,C,8,37,C101_N08P37,forest,PN,37,ozone other,19.2836036,-99.3161757,3190,C,101,2_cm,1.7,8,more than 70%,NA,NA,NA,NA,NA,NA,closed,3,0,no,NA,cover,1,0,0,1,1,1,no
+C122,P4,A9,C122_NNAP44,Abies religiosa,C,NA,44,C122_NNAP44,forest,PN,44,ozone drougth other,19.2891165,-99.3172017,3147,C,122,40_cm,30,NA,50 to 70%,NA,NA,NA,NA,NA,NA,closed,4,3,not_sure,NA,cover,0,0,1,1,1,1,no
+C17,P1,D10,C17_N5P6,Abies religiosa,C,5,6,C17_N05P06,forest,CX,6,healthy,19.292589,-99.2988251,3481,C,17,2_cm,1.1,5,NA,NA,NA,NA,NA,NA,NA,closed,3,3,no,NA,cover,1,1,0,0,1,0,no
+C3,P2,F2,C3_N9P2,Abies religiosa,C,9,2,C3_N09P02,forest,CX,2,ozone,19.2906363,-99.2990406,3473,C,3,6_cm,2,9,40 to 50%,NA,NA,NA,NA,NA,NA,closed,4,4,no,NA,exposed,0,1,0,0,1,0,yes
+C36,P4,G2,C36_N06P12,Abies religiosa,C,6,12,C36_N06P12,forest,CX,12,ozone drougth,19.291341,-99.3062656,3479,C,36,0.5_cm,0.53,6,less than 10%,NA,NA,NA,NA,NA,NA,closed,3,3,no,NA,cover,1,0,0,0,1,1,no
+C5,P1,A8,C5_N9P2,Abies religiosa,C,9,2,C5_N09P02,forest,CX,2,healthy,19.2907215,-99.2990592,3471,C,5,6_cm,3.3,9,NA,NA,NA,NA,NA,NA,NA,closed,3,3,no,NA,exposed,0,0,0,0,1,0,yes
+C64,P3,B5,C64_N09P29,Abies religiosa,C,9,29,C64_N09P29,forest,CX,29,ozone drougth other,19.302132,-99.2983218,3357,C,64,1_cm,1.5,9,50 to 70%,NA,NA,NA,NA,NA,NA,closed,4,3,no,NA,cover,1,0,0,0,1,1,no
+CA03,P3,B6,CA03_N04TAF,Abies religiosa,chamber,4,chambers,CA03_N04TAF,contingency_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CA04,P3,B1,CA04_N04TAF,Abies religiosa,chamber,4,chambers,CA04_N04TAF,contingency_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CA06,P3,C2,CA06_N04TAF,Abies religiosa,chamber,4,chambers,CA06_N04TAF,contingency_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CA07,P3,C6,CA07_N04TAF,Abies religiosa,chamber,4,chambers,CA07_N04TAF,contingency_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CA09,P3,F6,CA09_N04TAF,Abies religiosa,chamber,4,chambers,CA09_N04TAF,contingency_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CA10,P3,D10,CA10_N04TAF,Abies religiosa,chamber,4,chambers,CA10_N04TAF,contingency_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CA10r,P4,B6,CA10r_N04TAF,Abies religiosa,chamber,4,chambers,CA10r_N04TAF,contingency_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CA11,P4,F9,CA11_N04TAF,Abies religiosa,chamber,4,chambers,CA11_N04TAF,contingency_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CA14,P4,G12,CA14_N04TAF,Abies religiosa,chamber,4,chambers,CA14_N04TAF,contingency_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CA16,P4,D8,CA16_N04TAF,Abies religiosa,chamber,4,chambers,CA16_N04TAF,contingency_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CA17,P3,C11,CA17_N04TAF,Abies religiosa,chamber,4,chambers,CA17_N04TAF,contingency_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CA18,P3,G2,CA18_N04TAF,Abies religiosa,chamber,4,chambers,CA18_N04TAF,contingency_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CA19,P4,F4,CA19_N04TAF,Abies religiosa,chamber,4,chambers,CA19_N04TAF,contingency_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CA21,P4,A11,CA21_N04TAF,Abies religiosa,chamber,4,chambers,CA21_N04TAF,contingency_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CA22,P4,B4,CA22_N04TAF,Abies religiosa,chamber,4,chambers,CA22_N04TAF,contingency_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CA25,P4,B10,CA25_N04TAF,Abies religiosa,chamber,4,chambers,CA25_N04TAF,contingency_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CA27,P4,H12,CA27_N04TAF,Abies religiosa,chamber,4,chambers,CA27_N04TAF,contingency_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CA28,P4,F11,CA28_N04TAF,Abies religiosa,chamber,4,chambers,CA28_N04TAF,contingency_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CA29,P3,E7,CA29_N04TAF,Abies religiosa,chamber,4,chambers,CA29_N04TAF,contingency_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CA30,P3,H4,CA30_N04TAF,Abies religiosa,chamber,4,chambers,CA30_N04TAF,contingency_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CC01,P3,D4,CC01_N04TAF,Abies religiosa,chamber,4,chambers,CC01_N04TAF,moderate_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CC02,P3,B8,CC02_N04TAF,Abies religiosa,chamber,4,chambers,CC02_N04TAF,moderate_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CC03,P4,G6,CC03_N04TAF,Abies religiosa,chamber,4,chambers,CC03_N04TAF,moderate_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CC07,P3,H2,CC07_N04TAF,Abies religiosa,chamber,4,chambers,CC07_N04TAF,moderate_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CC09,P4,C9,CC09_N04TAF,Abies religiosa,chamber,4,chambers,CC09_N04TAF,moderate_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CC10,P4,B7,CC10_N04TAF,Abies religiosa,chamber,4,chambers,CC10_N04TAF,moderate_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CC11,P4,E3,CC11_N04TAF,Abies religiosa,chamber,4,chambers,CC11_N04TAF,moderate_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CC13,P3,F4,CC13_N04TAF,Abies religiosa,chamber,4,chambers,CC13_N04TAF,moderate_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CC15,P4,E4,CC15_N04TAF,Abies religiosa,chamber,4,chambers,CC15_N04TAF,moderate_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CC16,P4,E10,CC16_N04TAF,Abies religiosa,chamber,4,chambers,CC16_N04TAF,moderate_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CC17,P4,C12,CC17_N04TAF,Abies religiosa,chamber,4,chambers,CC17_N04TAF,moderate_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CC20,P3,F12,CC20_N04TAF,Abies religiosa,chamber,4,chambers,CC20_N04TAF,moderate_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CC21,P3,H8,CC21_N04TAF,Abies religiosa,chamber,4,chambers,CC21_N04TAF,moderate_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CC23,P3,H5,CC23_N04TAF,Abies religiosa,chamber,4,chambers,CC23_N04TAF,moderate_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CC24,P4,B1,CC24_N04TAF,Abies religiosa,chamber,4,chambers,CC24_N04TAF,moderate_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CC26,P4,B2,CC26_N04TAF,Abies religiosa,chamber,4,chambers,CC26_N04TAF,moderate_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CC26r,P4,B5,CC26r_N04TAF,Abies religiosa,chamber,4,chambers,CC26r_N04TAF,moderate_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CC27,P4,A10,CC27_N04TAF,Abies religiosa,chamber,4,chambers,CC27_N04TAF,moderate_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CC29,P3,E6,CC29_N04TAF,Abies religiosa,chamber,4,chambers,CC29_N04TAF,moderate_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+CC30,P4,E5,CC30_N04TAF,Abies religiosa,chamber,4,chambers,CC30_N04TAF,moderate_ozone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+D1,P1,G4,D1_N7P1,Abies religiosa,D,7,1,D1_N07P01,forest,CX,1,ozone,19.2901673,-99.2992237,3492.406982,D,1,10_cm,2.5,7,10 to 40%,NA,NA,NA,NA,NA,NA,closed,5,5,no,NA,cover,0,1,0,0,1,0,yes
+D127,P1,A9,D127_N6P35,Abies religiosa,D,6,35,D127_N06P35,forest,PN,35,ozone,19.2958901,-99.3191856,3116.57251,D,127,2_cm,2,6,50 to 70%,NA,NA,NA,NA,NA,NA,closed,3,3,no,NA,cover,1,0,0,1,1,0,yes
+D142,P2,D9,D142_N14P38,Abies religiosa,D,14,38,D142_N14P38,forest,PN,38,ozone,19.2833335,-99.316151,3228.881104,D,142,10_cm,8,14,40 to 50%,NA,NA,NA,NA,NA,NA,closed,9,2,no,NA,exposed,1,0,0,1,1,1,no
+D163,P4,C11,D163_N18P43,Abies religiosa,D,18,43,D163_N18P43,forest,PN,43,ozone,19.2899041,-99.3166882,3177.008057,D,163,30_cm,11,18,50 to 70%,NA,NA,NA,NA,NA,NA,closed,18,5,no,NA,cover,1,1,0,1,1,1,no
+D168,P1,C8,D168_N19P47,Abies religiosa,D,19,47,D168_N19P47,forest,CX,47,ozone,19.2925075,-99.2952765,3484.84082,D,168,30_cm,8,19,40 to 50%,NA,NA,NA,NA,NA,NA,closed,16,6,no,NA,cover,1,1,0,0,1,1,no
+D17,P1,B12,D17_N10P4,Abies religiosa,D,10,4,D17_N10P04,forest,CX,4,healthy,19.2923541,-99.2990785,3500.131836,D,17,2_cm,2.5,10,NA,NA,NA,NA,NA,NA,NA,closed,5,4,no,NA,cover,1,1,0,0,1,1,no
+D172,P2,C12,D172_N10P48,Abies religiosa,D,10,48,D172_N10P48,forest,CX,48,ozone,19.2925917,-99.2949421,3472.432373,D,172,10_cm,6,10,50 to 70%,NA,NA,NA,NA,NA,NA,closed,9,6,no,NA,cover,1,0,0,0,1,1,no
+D23,P1,C2,D23_N5P4,Abies religiosa,D,5,4,D23_N05P04,forest,CX,4,ozone,19.292365,-99.2990874,3491.342041,D,23,2_cm,1.7,5,50 to 70%,NA,NA,NA,NA,NA,NA,closed,4,3,no,NA,exposed,1,0,0,0,1,1,yes
+D3,P4,H6,D3_07P01,Abies religiosa,D,7,1,D3_N07P01,forest,CX,1,healthy,19.2901373,-99.2991958,3490.396729,D,3,6_cm,2.7,7,NA,NA,NA,NA,NA,NA,NA,closed,3,3,no,NA,exposed,0,1,0,0,1,0,yes
+D32,P2,A11,D32_N9P7,Abies religiosa,D,9,7,D32_N09P07,forest,CX,7,healthy,19.2898034,-99.3030406,3499.697998,D,32,10_cm,6,9,NA,NA,NA,NA,NA,NA,NA,closed,8,5,no,NA,exposed,1,0,0,0,1,1,no
+D4,P1,A10,D4_N7P1,Abies religiosa,D,7,1,D4_N07P01,forest,CX,1,healthy,19.2901859,-99.2991126,3505.22583,D,4,6_cm,2.5,7,NA,NA,NA,NA,NA,NA,NA,closed,3,3,no,NA,cover,0,1,0,0,1,0,yes
+D64,P1,H8,D64_N18P18,Abies religiosa,D,18,18,D64_N18P18,forest,CX,18,ozone,19.28544,-99.3020576,3480.509277,D,64,40_cm,13,18,40 to 50%,NA,NA,NA,NA,NA,NA,closed,12,5,no,NA,exposed,1,1,0,1,1,1,no
+D65,P2,A1,D65_N7P18,Abies religiosa,D,7,18,D65_N07P18,forest,CX,18,healthy,19.2854915,-99.3021961,3461.674316,D,65,6_cm,2.5,7,NA,NA,NA,NA,NA,NA,NA,closed,4,4,no,NA,cover,1,0,0,1,1,1,no
+D66,P3,G6,D66_N10P19,Abies religiosa,D,10,19,D66_N10P19,forest,CX,19,ozone,19.2864665,-99.3048456,3446.597168,D,66,10_cm,10,10,50 to 70%,NA,NA,NA,NA,NA,NA,closed,8,5,no,NA,cover,1,0,0,1,1,1,no
+D7,P3,E3,D7_N08P01,Abies religiosa,D,8,1,D7_N08P01,forest,CX,1,healthy,19.2901956,-99.29914,3492.579102,D,7,10_cm,3,8,NA,NA,NA,NA,NA,NA,NA,closed,5,4,no,NA,cover,1,1,0,0,1,0,yes
+D70,P3,B7,D70_N09P19,Abies religiosa,D,9,19,D70_N09P19,forest,CX,19,ozone,19.2865152,-99.3048588,3445.891846,D,70,6_cm,3,9,40 to 50%,NA,NA,NA,NA,NA,NA,closed,5,2,no,NA,exposed,1,0,0,1,1,1,no
+D72,P4,E2,D72_N13P19,Abies religiosa,D,13,19,D72_N13P19,forest,CX,19,ozone,19.2866842,-99.3047682,3421.943115,D,72,10_cm,8,13,50 to 70%,NA,NA,NA,NA,NA,NA,closed,10,5,no,NA,exposed,1,0,0,1,1,1,no
+D73,P1,E5,D73_N7P19,Abies religiosa,D,7,19,D73_N07P19,forest,CX,19,ozone,19.2864851,-99.3048482,3454.411621,D,73,2_cm,2.5,7,50 to 70%,NA,NA,NA,NA,NA,NA,closed,6,4,no,NA,exposed,1,0,0,1,1,1,no
+D76,P2,G11,D76_N12P20,Abies religiosa,D,12,20,D76_N12P20,forest,CX,20,ozone other,19.2867398,-99.3046597,3461.848389,D,76,2_cm,2.5,12,50 to 70%,NA,NA,NA,NA,NA,NA,not_visible,4,5,no,NA,cover,1,0,0,1,0,1,no
+D88,P1,F6,D88_NNAP28,Abies religiosa,D,NA,28,D88_NNAP28,forest,CX,28,ozone,19.3020569,-99.2977118,3350.918213,D,88,40_cm,20,NA,less than 10%,NA,NA,NA,NA,NA,NA,closed,17,6,not_sure,NA,exposed,1,0,0,1,1,1,no
+E166,P4,F1,E166NNAP38,Abies religiosa,E,NA,38,E166_NNAP38,forest,PN,38,ozone,19.2833214,-99.3161,3232.654219,E,166,40_cm,25,NA,less than 10%,NA,NA,NA,NA,NA,NA,closed,25,20,not_sure,NA,cover,1,0,0,1,0,0,no
+E17,P1,C7,E17_N6P5,Abies religiosa,E,6,5,E17_N06P05,forest,CX,5,healthy,19.2927744,-99.2992034,3465.084278,E,17,2_cm,2.3,6,NA,NA,NA,NA,NA,NA,NA,closed,4,4,no,NA,cover,0,1,0,0,1,1,yes
+E174,P2,E9,E174_N8P38,Abies religiosa,E,8,38,E174_N08P38,forest,PN,38,ozone,19.2833253,-99.3161053,3235.236073,E,174,6_cm,2.8,8,10 to 40%,NA,NA,NA,NA,NA,NA,closed,6,6,no,NA,cover,1,0,0,1,1,1,no
+E191,P3,H7,E191_NNAP43,Abies religiosa,E,NA,43,E191_NNAP43,forest,PN,43,ozone other,19.2897213,-99.3165276,3139.239374,E,191,30_cm,15,NA,10 to 40%,NA,NA,NA,NA,NA,NA,closed,21,17,no,NA,cover,1,0,0,0,0,0,no
+E192,P3,H1,E192_NNAP43,Abies religiosa,E,NA,43,E192_NNAP43,forest,PN,43,ozone other,19.2895778,-99.3166797,3127.911259,E,192,40_cm,15,NA,10 to 40%,NA,NA,NA,NA,NA,NA,closed,24,16,not_sure,NA,cover,1,0,0,0,1,0,no
+E22,P2,B1,E22_N6P5,Abies religiosa,E,6,5,E22_N06P05,forest,CX,5,ozone,19.2927712,-99.2992614,3481.287355,E,22,2_cm,1.3,6,less than 10%,NA,NA,NA,NA,NA,NA,closed,5,4,no,NA,cover,0,1,0,0,1,1,yes
+E31,P2,A7,E31_N5P8,Abies religiosa,E,5,8,E31_N05P08,forest,CX,8,ozone,19.2904434,-99.3030493,3512.252034,E,31,0.5_cm,0.45,5,less than 10%,NA,NA,NA,NA,NA,NA,closed,2,2,no,NA,cover,0,0,0,0,1,1,no
+E4,P1,H9,E4_N8P3,Abies religiosa,E,8,3,E4_N08P03,forest,CX,3,healthy,19.2905237,-99.299361,3475.416444,E,4,6_cm,2.8,8,NA,NA,NA,NA,NA,NA,NA,closed,3,3,no,NA,cover,0,0,0,0,1,0,yes
+E47,P2,F12,E47_N11P11,Abies religiosa,E,11,11,E47_N11P11,forest,CX,11,ozone,19.2907778,-99.306521,3454.098189,E,47,0.5_cm,0.6,11,less than 10%,NA,NA,NA,NA,NA,NA,closed,6,5,no,NA,cover,1,0,0,0,0,1,no
+E48,P2,B10,E48_N8P11,Abies religiosa,E,8,11,E48_N08P11,forest,CX,11,ozone,19.2908673,-99.3067448,3461.96617,E,48,0.5_cm,0.55,8,less than 10%,NA,NA,NA,NA,NA,NA,closed,4,4,no,NA,cover,0,0,0,1,1,1,no
+E51,P1,B1,E51_N11P15,Abies religiosa,E,11,15,E51_N11P15,forest,CX,15,ozone,19.2930415,-99.3070285,3474.488522,E,51,10_cm,4.5,11,less than 10%,NA,NA,NA,NA,NA,NA,closed,7,7,no,NA,exposed,0,0,0,0,1,0,no
+E66,P1,H2,E66_N14P20,Abies religiosa,E,14,20,E66_N14P20,forest,CX,20,ozone,19.2868019,-99.3047379,3466.192977,E,66,30_cm,9,14,less than 10%,NA,NA,NA,NA,NA,NA,closed,7,5,not_sure,NA,cover,1,0,0,0,0,0,no
+E67,P3,C1,E67_NNAP22,Abies religiosa,E,NA,22,E67_NNAP22,forest,CX,22,ozone other,19.3021163,-99.2920197,3189.1556,E,67,40_cm,23,NA,less than 10%,NA,NA,NA,NA,NA,NA,closed,16,12,not_sure,NA,cover,1,0,0,0,0,0,no
+E72,P4,E8,E72_N06P67,Abies religiosa,E,6,27,E72_N06P27,forest,CX,27,ozone fungi other,19.3078079,-99.2908109,2966.602319,E,72,1_cm,0.8,6,less than 10%,NA,NA,NA,NA,NA,NA,closed,3,2,no,NA,cover,1,0,0,0,0,1,yes
+E77,P3,E2,E77_NNAP28,Abies religiosa,E,NA,28,E77_NNAP28,forest,CX,28,ozone other,19.3021696,-99.2977593,3354.448311,E,77,40_cm,25,NA,less than 10%,NA,NA,NA,NA,NA,NA,closed,27,18,not_sure,NA,cover,1,0,0,0,0,0,no
+E83,P4,G7,E83_N13P29,Abies religiosa,E,13,29,E83_N13P29,forest,CX,29,ozone other,19.3022668,-99.2984563,3373.101337,E,83,1_cm,0.8,13,less than 10%,NA,NA,NA,NA,NA,NA,closed,5,4,no,NA,cover,1,0,0,0,1,1,no
+E89,P3,E5,E89_N16P29,Abies religiosa,E,16,29,E89_N16P29,forest,CX,29,fungi other,19.3021043,-99.2984035,3354.109666,E,89,0.5_cm,0.7,16,NA,01/10/1940,0,1,0,0,0,closed,4,3,no,NA,cover,1,0,0,0,1,1,no
+F100,P1,H4,F100_N10P32,Abies religiosa,F,10,32,F100_N10P32,forest,CX,32,healthy,19.2980573,-99.3003013,3439,F,100,2_cm,2.5,10,NA,NA,NA,NA,NA,NA,NA,closed,7,3,no,NA,cover,1,0,0,1,1,1,no
+F101,P1,G9,F101_N9P32,Abies religiosa,F,9,32,F101_N09P32,forest,CX,32,healthy,19.2980364,-99.3002656,3441.1,F,101,2_cm,2.2,9,NA,NA,NA,NA,NA,NA,NA,not_visible,9,7,no,NA,exposed,1,0,0,1,1,1,no
+F101r,P4,E11,F101r_N9P32,Abies religiosa,F,9,32,F101r_N09P32,forest,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F104,P1,G2,F104_N8P32,Abies religiosa,F,8,32,F104_N08P32,forest,CX,32,healthy,19.29797,-99.3002577,3441.1,F,104,0.5_cm,1.2,8,NA,NA,NA,NA,NA,NA,NA,not_visible,3,3,no,NA,cover,0,0,0,1,1,1,yes
+F108,P2,E11,F108_N8P32,Abies religiosa,F,8,32,F108_N08P32,forest,CX,32,ozone,19.2981488,-99.3002967,3437,F,108,2_cm,2.1,8,10 to 40%,NA,NA,NA,NA,NA,NA,closed,12,3,no,NA,cover,1,0,0,1,1,1,no
+F109,P1,H5,F109_N11P32,Abies religiosa,F,11,32,F109_N11P32,forest,CX,32,ozone,19.2979713,-99.3002768,3432.2,F,109,6_cm,5,11,10 to 40%,NA,NA,NA,NA,NA,NA,not_visible,10,5,no,NA,exposed,1,0,0,1,1,1,no
+F111,P1,B11,F111_N11P32,Abies religiosa,F,11,32,F111_N11P32,forest,CX,32,healthy,19.2980324,-99.3001948,3461.6,F,111,6_cm,6,11,NA,NA,NA,NA,NA,NA,NA,not_visible,8,4,no,NA,exposed,1,0,0,1,1,1,no
+F123,P2,A9,F123_N6P41,Abies religiosa,F,6,41,F123_N06P41,forest,PN,41,ozone,19.2749204,-99.3081016,3428,F,123,0.5_cm,0.9,6,10 to 40%,NA,NA,NA,NA,NA,NA,closed,3,2,no,NA,cover,1,0,0,1,1,0,no
+F131,P3,E1,F131_N11P43,Abies religiosa,F,11,43,F131_N11P43,forest,PN,43,ozone other,19.2902867,-99.3165553,3201,F,131,2_cm,2,11,40 to 50%,NA,NA,NA,NA,NA,NA,closed,5,2,no,NA,cover,1,1,0,1,1,1,no
+F134,P2,C11,F134_NNAP48,Abies religiosa,F,NA,48,F134_NNAP48,forest,CX,48,healthy,19.2926351,-99.2949928,3475.6,F,134,30_cm,16,NA,NA,NA,NA,NA,NA,NA,NA,not_visible,14,5,no,NA,exposed,1,0,0,0,1,1,no
+F138,P4,D4,F138_N07P48,Abies religiosa,F,7,48,F138_N07P48,forest,CX,48,healthy,19.2925361,-99.2946476,3456,F,138,1_cm,1.1,7,NA,NA,NA,NA,NA,NA,NA,not_visible,5,4,no,NA,cover,1,0,0,0,1,1,no
+F139,P4,G8,F139_N05P48,Abies religiosa,F,5,48,F139_N05P48,forest,CX,48,other,19.2923969,-99.2946342,3485.1,F,139,0.5_cm,0.6,5,NA,50-70,0,0,0,1,0,not_visible,3,0,no,NA,cover,1,0,0,0,1,1,no
+F18,P1,B5,F18_N14P4,Abies religiosa,F,14,4,F18_N14P04,forest,CX,4,healthy,19.292189,-99.2993025,3417.138168,F,18,30_cm,7,14,NA,NA,NA,NA,NA,NA,NA,closed,9,6,no,NA,cover,1,1,0,0,1,0,no
+F2,P2,G6,F2_N8P1,Abies religiosa,F,8,1,F2_N08P01,forest,CX,1,healthy,19.2903805,-99.2991172,3528.448388,F,2,2_cm,2.5,8,NA,NA,NA,NA,NA,NA,NA,closed,3,3,no,NA,cover,0,0,0,0,1,0,yes
+F3,P2,E12,F3_N8P1,Abies religiosa,F,8,1,F3_N08P01,forest,CX,1,ozone,19.2902275,-99.2992428,3517.130616,F,3,2_cm,2.5,8,10 to 40%,NA,NA,NA,NA,NA,NA,closed,4,3,no,NA,cover,0,0,0,1,1,0,yes
+F33,P2,C2,F33_N8P7,Abies religiosa,F,8,7,F33_N08P07,forest,CX,7,ozone,NA,NA,NA,F,33,2_cm,2.1,8,less than 10%,NA,NA,NA,NA,NA,NA,closed,8,7,no,NA,exposed,0,0,0,1,1,1,yes
+F4,P3,F7,F4_N08P01,Abies religiosa,F,8,1,F4_N08P01,forest,CX,1,healthy,19.2903056,-99.299154,3507.165013,F,4,6_cm,3.5,8,NA,NA,NA,NA,NA,NA,NA,closed,5,4,no,NA,cover,0,0,0,0,1,0,yes
+F66,P1,D4,F66_N8P13,Abies religiosa,F,8,13,F66_N08P13,forest,CX,13,healthy,NA,NA,NA,F,66,6_cm,2.5,8,NA,NA,NA,NA,NA,NA,NA,closed,6,4,no,NA,cover,1,1,0,1,1,0,yes
+F67,P1,F12,F67_N9P18,Abies religiosa,F,9,18,F67_N09P18,forest,CX,18,ozone,NA,NA,NA,F,67,10_cm,7,9,40 to 50%,NA,NA,NA,NA,NA,NA,closed,8,3,no,NA,exposed,1,0,0,1,1,0,no
+F68,P1,B9,F68_N7P18,Abies religiosa,F,7,18,F68_N07P18,forest,CX,18,ozone,NA,NA,NA,F,68,2_cm,1.7,7,10 to 40%,NA,NA,NA,NA,NA,NA,closed,7,3,no,NA,cover,0,0,0,1,1,0,no
+F73,P2,H2,F73_N13P19,Abies religiosa,F,13,19,F73_N13P19,forest,CX,19,ozone drougth other,19.2865924,-99.3047785,3446,F,73,10_cm,11,13,10 to 40%,NA,NA,NA,NA,NA,NA,not_visible,7,2,no,NA,cover,1,0,0,0,1,0,no
+F84,P1,G8,F84_NNAP28,Abies religiosa,F,NA,28,F84_NNAP28,forest,CX,28,healthy,19.301972,-99.297801,3364.6,F,84,40_cm,28,NA,NA,NA,NA,NA,NA,NA,NA,not_visible,16,6,no,NA,exposed,1,0,0,1,1,1,no
+F85,P1,A6,F85_NNAP28,Abies religiosa,F,NA,28,F85_NNAP28,forest,CX,28,healthy,19.302046,-99.2977717,3365.7,F,85,40_cm,30,NA,NA,NA,NA,NA,NA,NA,NA,not_visible,14,5,not_sure,NA,exposed,1,0,0,1,1,1,no
+F9,P2,B9,F9_N4P1,Abies religiosa,F,4,1,F9_N04P01,forest,CX,1,ozone,19.2903079,-99.2991607,3554.453533,F,9,0.5_cm,0.5,4,less than 10%,NA,NA,NA,NA,NA,NA,closed,3,1,no,NA,cover,1,1,0,0,1,1,no
+G101,P1,D2,G101_NNAP33,Abies religiosa,G,NA,33,G101_NNAP33,forest,CX,33,ozone,NA,NA,NA,G,101,30_cm,16,NA,less than 10%,NA,NA,NA,NA,NA,NA,closed,13,4,no,NA,exposed,1,0,0,1,0,0,no
+G102,P1,C5,G102_NNAP33,Abies religiosa,G,NA,33,G102_NNAP33,forest,CX,33,healthy,NA,NA,NA,G,102,30_cm,16,NA,NA,NA,NA,NA,NA,NA,NA,closed,12,4,no,NA,exposed,1,0,0,1,0,0,no
+G103,P2,E10,G103_N7P33,Abies religiosa,G,7,33,G103_N07P33,forest,CX,33,healthy,NA,NA,NA,G,103,0.5_cm,0.5,7,NA,NA,NA,NA,NA,NA,NA,open,3,2,no,NA,cover,1,0,0,0,0,0,yes
+G104,P1,E4,G104_N7P33,Abies religiosa,G,7,33,G104_N07P33,forest,CX,33,ozone,NA,NA,NA,G,104,1_cm,1.5,7,10 to 40%,NA,NA,NA,NA,NA,NA,closed,5,5,no,NA,cover,1,0,0,1,0,0,no
+G112,P3,C4,G112_N07P35,Abies religiosa,G,7,35,G112_N07P35,forest,PN,35,ozone,NA,NA,NA,G,112,2_cm,2.2,7,10 to 40%,NA,NA,NA,NA,NA,NA,closed,4,3,no,NA,cover,1,0,0,0,0,0,yes
+G114,P1,G3,G114_N7P35,Abies religiosa,G,7,35,G114_N07P35,forest,PN,35,ozone,NA,NA,NA,G,114,6_cm,2.5,7,less than 10%,NA,NA,NA,NA,NA,NA,closed,6,3,no,NA,exposed,1,0,0,0,1,0,no
+G115,P2,E4,G115_N7P35,Abies religiosa,G,7,35,G115_N07P35,forest,PN,35,healthy,NA,NA,NA,G,115,2_cm,3,7,NA,NA,NA,NA,NA,NA,NA,closed,3,2,no,NA,cover,1,0,0,0,1,0,yes
+G118,P1,F9,G118_N7P35,Abies religiosa,G,7,35,G118_N07P35,forest,PN,35,healthy,NA,NA,NA,G,118,2_cm,2.5,7,NA,NA,NA,NA,NA,NA,NA,closed,3,3,no,NA,exposed,1,0,0,0,1,0,yes
+G12,P1,D1,G12_NNAP5,Abies religiosa,G,NA,5,G12_NNAP05,forest,CX,5,healthy,19.2928579,-99.2991407,3481.8,G,12,40_cm,18,NA,NA,NA,NA,NA,NA,NA,NA,closed,7,3,not_sure,NA,exposed,1,0,0,1,1,0,no
+G124,P1,E12,G124_N7P35,Abies religiosa,G,7,35,G124_N07P35,forest,PN,35,healthy,NA,NA,NA,G,124,2_cm,1.9,7,NA,NA,NA,NA,NA,NA,NA,closed,3,2,no,NA,exposed,1,0,0,0,0,0,yes
+G126,P1,A12,G126_N13P38,Abies religiosa,G,13,38,G126_N13P38,forest,PN,38,ozone,NA,NA,NA,G,126,6_cm,5,13,10 to 40%,NA,NA,NA,NA,NA,NA,open,7,3,no,NA,cover,1,0,0,1,1,1,no
+G129,P2,A8,G129_N8P38,Abies religiosa,G,8,38,G129_N08P38,forest,PN,38,healthy,NA,NA,NA,G,129,0.5_cm,0.6,8,NA,NA,NA,NA,NA,NA,NA,open,5,4,no,NA,cover,1,0,0,1,1,0,no
+G134,P1,F11,G134_N9P38,Abies religiosa,G,9,38,G134_N09P38,forest,PN,38,healthy,NA,NA,NA,G,134,6_cm,2.5,9,NA,NA,NA,NA,NA,NA,NA,closed,5,4,no,NA,cover,1,0,0,1,0,0,no
+G137,P1,C10,G137_N11P38,Abies religiosa,G,11,38,G137_N11P38,forest,PN,38,healthy,NA,NA,NA,G,137,2_cm,5,11,NA,NA,NA,NA,NA,NA,NA,open,6,4,no,NA,cover,1,0,0,1,1,0,no
+G142,P2,D3,G142_N8P38,Abies religiosa,G,8,38,G142_N08P38,forest,PN,38,ozone,NA,NA,NA,G,142,2_cm,3,8,less than 10%,NA,NA,NA,NA,NA,NA,closed,4,3,no,NA,cover,1,0,0,0,1,0,no
+G148,P2,D1,G148_N6P41,Abies religiosa,G,6,41,G148_N06P41,forest,PN,41,healthy,NA,NA,NA,G,148,0.5_cm,0.6,6,NA,NA,NA,NA,NA,NA,NA,closed,3,3,no,NA,exposed,1,0,0,0,0,1,no
+G16,P2,G9,G16_N6P5,Abies religiosa,G,6,5,G16_N06P05,forest,CX,5,healthy,19.2928564,-99.2993312,3516.4,G,16,2_cm,1.65,6,NA,NA,NA,NA,NA,NA,NA,closed,3,3,no,NA,cover,1,0,0,0,1,0,no
+G162,P1,F7,G162_NNAP48,Abies religiosa,G,NA,48,G162_NNAP48,forest,CX,48,ozone,NA,NA,NA,G,162,30_cm,15,NA,less than 10%,NA,NA,NA,NA,NA,NA,closed,18,3,yes,female,exposed,1,0,0,0,0,0,no
+G163,P2,G7,G163_NNAP48,Abies religiosa,G,NA,48,G163_NNAP48,forest,CX,48,ozone,NA,NA,NA,G,163,40_cm,15,NA,less than 10%,NA,NA,NA,NA,NA,NA,closed,17,4,not_sure,NA,exposed,1,0,0,0,0,0,no
+G164,P2,H11,G164_N17P48,Abies religiosa,G,17,48,G164_N17P48,forest,CX,48,healthy,NA,NA,NA,G,164,30_cm,9,17,NA,NA,NA,NA,NA,NA,NA,closed,15,3,no,NA,cover,1,0,0,0,0,0,no
+G22,P2,C3,G22_N9P5,Abies religiosa,G,9,5,G22_N09P05,forest,CX,5,healthy,NA,NA,NA,G,22,10_cm,5.2,9,NA,NA,NA,NA,NA,NA,NA,not_visible,9,7,no,NA,exposed,1,0,0,1,0,0,no
+G25,P1,G6,G25_N6P5,Abies religiosa,G,6,5,G25_N06P05,forest,CX,5,ozone,19.2926756,-99.2993352,3474,G,25,6_cm,2.8,6,less than 10%,NA,NA,NA,NA,NA,NA,closed,4,2,no,NA,exposed,0,0,0,0,1,0,no
+G3,P3,F1,G3_N08P03,Abies religiosa,G,8,3,G3_N08P03,forest,CX,3,healthy,19.2905556,-99.299445,3498.6,G,3,6_cm,2,8,NA,NA,NA,NA,NA,NA,NA,closed,3,3,no,NA,cover,1,1,0,0,1,0,yes
+G34,P1,G10,G34_N5P8,Abies religiosa,G,5,8,G34_N05P08,forest,CX,8,healthy,19.2904832,-99.302877,3555,G,34,2_cm,2.2,5,NA,NA,NA,NA,NA,NA,NA,closed,3,3,no,NA,exposed,0,0,0,0,1,0,yes
+G4,P2,A2,G4_N10P3,Abies religiosa,G,10,3,G4_N10P03,forest,CX,3,healthy,19.2905054,-99.2993218,3508.9,G,4,10_cm,4.3,10,NA,NA,NA,NA,NA,NA,NA,closed,6,5,no,NA,cover,1,0,0,0,1,0,yes
+G43,P2,F5,G43_N8P11,Abies religiosa,G,8,11,G43_N08P11,forest,CX,11,healthy,19.2908088,-99.3066638,3481.7,G,43,1_cm,1.2,8,NA,NA,NA,NA,NA,NA,NA,closed,3,2,no,NA,exposed,1,0,0,0,0,0,no
+G52,P1,A3,G52_N11P15,Abies religiosa,G,11,15,G52_N11P15,forest,CX,15,ozone,19.2932258,-99.3070139,3459.7,G,52,10_cm,9,11,10 to 40%,NA,NA,NA,NA,NA,NA,closed,9,4,no,NA,exposed,0,0,0,1,0,0,no
+G53,P1,B8,G53_N16P15,Abies religiosa,G,16,15,G53_N16P15,forest,CX,15,ozone,19.2932464,-99.3069856,3465.1,G,53,30_cm,14,16,10 to 40%,NA,NA,NA,NA,NA,NA,closed,12,3,no,NA,exposed,0,0,0,1,0,0,no
+G60,P3,D9,G60_N06P17,Abies religiosa,G,6,17,G60_N06P17,forest,CX,17,healthy,19.2850317,-99.30193,3482.8,G,60,1_cm,1.7,6,NA,NA,NA,NA,NA,NA,NA,closed,3,2,no,NA,exposed,0,1,0,0,0,0,no
+G85,P1,H11,G85_N11P30,Abies religiosa,G,11,30,G85_N11P30,forest,CX,30,ozone,NA,NA,NA,G,85,30_cm,9,11,less than 10%,NA,NA,NA,NA,NA,NA,closed,12,5,no,NA,cover,1,0,0,1,1,0,no
+G87,P1,F10,G87_N13P30,Abies religiosa,G,13,30,G87_N13P30,forest,CX,30,ozone,NA,NA,NA,G,87,10_cm,7,13,10 to 40%,NA,NA,NA,NA,NA,NA,closed,10,5,no,NA,exposed,1,0,0,0,1,0,no
+G89,P1,A1,G89_N11P30,Abies religiosa,G,11,30,G89_N11P30,forest,CX,30,healthy,NA,NA,NA,G,89,1_cm,1.7,11,NA,NA,NA,NA,NA,NA,NA,closed,5,3,no,NA,cover,1,0,0,0,0,0,no
+G92,P1,F5,G92_N12P29,Abies religiosa,G,12,29,G92_N12P29,forest,CX,29,ozone,NA,NA,NA,G,92,2_cm,2.8,12,less than 10%,NA,NA,NA,NA,NA,NA,open,6,3,no,NA,cover,1,0,0,1,0,0,no
+G93,P2,D8,G93_N12P29,Abies religiosa,G,12,29,G93_N12P29,forest,CX,29,ozone,NA,NA,NA,G,93,1_cm,2,12,less than 10%,NA,NA,NA,NA,NA,NA,open,7,5,no,NA,cover,1,0,0,0,0,0,no
+G99,P2,C5,G99_N11P29,Abies religiosa,G,11,29,G99_N11P29,forest,CX,29,healthy,NA,NA,NA,G,99,0.5_cm,0.6,11,NA,NA,NA,NA,NA,NA,NA,open,3,3,no,NA,cover,1,0,0,1,0,1,no
+H11,P2,B5,H11_N5P6,Abies religiosa,H,5,6,H11_N05P06,forest,CX,6,ozone,19.2926054,-99.2989426,3476.603516,H,11,0.5_cm,0.45,5,less than 10%,NA,NA,NA,NA,NA,NA,closed,4,4,no,NA,cover,1,0,0,0,0,1,no
+H124,P4,A3,H124_N05P37,Abies religiosa,H,5,37,H124_N05P37,forest,PN,37,healthy,19.2837327,-99.3160479,3217.005127,H,124,0.5_cm,0.35,5,NA,NA,NA,NA,NA,NA,NA,closed,3,3,no,NA,exposed,1,0,0,1,1,1,no
+H141,P2,F3,H141_N14P40,Abies religiosa,H,14,40,H141_N14P40,forest,PN,40,healthy,19.2744331,-99.3070892,3479.107666,H,141,30_cm,6,14,NA,NA,NA,NA,NA,NA,NA,closed,10,7,no,NA,exposed,0,0,0,1,1,1,no
+H143,P3,H9,H143_N18P40,Abies religiosa,H,18,40,H143_N18P40,forest,PN,40,healthy,19.2742886,-99.3070307,3465.496826,H,143,30_cm,9,18,NA,NA,NA,NA,NA,NA,NA,closed,10,6,no,NA,exposed,0,1,0,1,1,1,no
+H147,P4,G9,H147_N07P40,Abies religiosa,H,7,40,H147_N07P40,forest,PN,40,ozone drougth other,19.2742979,-99.3068925,3460.116455,H,147,10_cm,6,7,more than 70%,NA,NA,NA,NA,NA,NA,closed,7,4,no,NA,cover,1,0,0,1,1,1,no
+H148,P4,H9,H148_N05P40,Abies religiosa,H,5,40,H148_N05P40,forest,PN,40,healthy,19.2742861,-99.3069308,3471.493652,H,148,0.5_cm,0.35,5,NA,NA,NA,NA,NA,NA,NA,open,3,3,no,NA,exposed,1,0,0,0,1,1,no
+H154,P3,A10,H154_N11P44,Abies religiosa,H,11,44,H154_N11P44,forest,PN,44,ozone fungi other,19.2893206,-99.3169642,3164.323242,H,154,2_cm,1.5,11,more than 70%,NA,NA,NA,NA,NA,NA,closed,8,2,no,NA,cover,0,0,0,0,1,1,no
+H16,P1,F1,H16_N9P6,Abies religiosa,H,9,6,H16_N09P06,forest,CX,6,ozone,19.2925932,-99.2988781,3489.598633,H,16,2_cm,3.2,9,10 to 40%,NA,NA,NA,NA,NA,NA,closed,8,8,no,NA,exposed,1,0,0,0,0,1,yes
+H162,P2,A3,H162_N16P46,Abies religiosa,H,16,46,H162_N16P46,forest,CX,46,healthy,19.2925108,-99.2956339,3472.197266,H,162,10_cm,8.5,16,NA,NA,NA,NA,NA,NA,NA,closed,9,7,no,NA,exposed,1,0,0,1,1,1,no
+H17,P1,H10,H17_N10P6,Abies religiosa,H,10,6,H17_N10P06,forest,CX,6,ozone,19.2925442,-99.2987798,3498.44043,H,17,2_cm,3,10,40 to 50%,NA,NA,NA,NA,NA,NA,closed,6,4,no,NA,cover,1,1,0,0,0,1,yes
+H18,P2,E5,H18_N13P6,Abies religiosa,H,13,6,H18_N13P06,forest,CX,6,ozone,19.2925372,-99.2988501,3489.702393,H,18,10_cm,7,13,less than 10%,NA,NA,NA,NA,NA,NA,closed,9,5,no,NA,exposed,1,0,0,0,0,1,no
+H19,P1,C3,H19_N7P6,Abies religiosa,H,7,6,H19_N07P06,forest,CX,6,ozone,19.2925051,-99.2988374,3496.14209,H,19,1_cm,1.3,7,less than 10%,NA,NA,NA,NA,NA,NA,closed,4,3,no,NA,exposed,1,0,0,0,0,1,no
+H2,P2,D4,H2_N9P2,Abies religiosa,H,9,2,H2_N09P02,forest,CX,2,healthy,19.2906699,-99.2990988,3508.605225,H,2,6_cm,3,9,NA,NA,NA,NA,NA,NA,NA,closed,3,3,no,NA,cover,0,1,0,0,1,0,yes
+H20,P2,F9,H20_N8P6,Abies religiosa,H,8,6,H20_N08P06,forest,CX,6,ozone,19.2926957,-99.2988308,3514.62915,H,20,2_cm,3,8,40 to 50%,NA,NA,NA,NA,NA,NA,closed,6,5,no,NA,cover,1,1,0,0,0,1,yes
+H22,P1,B6,H22_N6P6,Abies religiosa,H,6,6,H22_N06P06,forest,CX,6,healthy,19.2925315,-99.2988884,3479.776123,H,22,1_cm,1,6,NA,NA,NA,NA,NA,NA,NA,closed,5,3,no,NA,exposed,1,0,0,0,0,1,no
+H25,P2,H1,H25_N5P6,Abies religiosa,H,5,6,H25_N05P06,forest,CX,6,healthy,19.2925774,-99.2988798,3498.907715,H,25,1_cm,1,5,NA,NA,NA,NA,NA,NA,NA,closed,4,3,no,NA,cover,1,1,0,1,1,0,no
+H3,P2,E8,H3_N9P2,Abies religiosa,H,9,2,H3_N09P02,forest,CX,2,ozone,19.2905374,-99.2990127,3484.693604,H,3,6_cm,3.2,9,10 to 40%,NA,NA,NA,NA,NA,NA,closed,4,4,no,NA,exposed,0,1,0,0,0,1,yes
+H30,P2,E1,H30_N9P9,Abies religiosa,H,9,9,H30_N09P09,forest,CX,9,ozone,19.290897,-99.3026092,3500.883545,H,30,1_cm,1,9,less than 10%,NA,NA,NA,NA,NA,NA,closed,6,4,no,NA,cover,1,1,0,0,1,1,no
+H31,P2,G12,H31_N5P9,Abies religiosa,H,5,9,H31_N05P09,forest,CX,9,ozone,19.2908893,-99.3025616,3495.748047,H,31,0.5_cm,0.5,5,less than 10%,NA,NA,NA,NA,NA,NA,closed,4,3,no,NA,cover,0,0,0,0,1,1,no
+H38,P3,C12,H38_NNAP09,Abies religiosa,H,NA,9,H38_NNAP09,forest,CX,9,ozone,19.2909589,-99.3026164,3491.700195,H,38,40_cm,28,NA,10 to 40%,NA,NA,NA,NA,NA,NA,closed,25,4,yes,female,exposed,1,0,0,0,1,1,no
+H42,P1,G1,H42_N4P12,Abies religiosa,H,4,12,H42_N04P12,forest,CX,12,ozone,19.2912694,-99.3061875,3483.357666,H,42,0.5_cm,0.3,4,less than 10%,NA,NA,NA,NA,NA,NA,closed,3,3,no,NA,exposed,1,0,0,0,1,1,no
+H49,P2,B7,H49_N5P12,Abies religiosa,H,5,12,H49_N05P12,forest,CX,12,ozone,19.2912347,-99.3061724,3477.334229,H,49,0.5_cm,0.25,5,less than 10%,NA,NA,NA,NA,NA,NA,closed,3,3,no,NA,exposed,0,0,0,0,1,1,no
+H5,P2,E3,H5_N10P2,Abies religiosa,H,10,2,H5_N10P02,forest,CX,2,ozone,19.2906784,-99.2989935,3497.024902,H,5,6_cm,2,10,less than 10%,NA,NA,NA,NA,NA,NA,closed,4,3,no,NA,cover,0,1,0,0,1,0,yes
+H53,P2,E7,H53_N6P12,Abies religiosa,H,6,12,H53_N06P12,forest,CX,12,ozone,19.2915058,-99.3061573,3499.092041,H,53,0.5_cm,0.7,6,10 to 40%,NA,NA,NA,NA,NA,NA,closed,5,4,no,NA,exposed,0,0,0,0,1,1,no
+H65,P4,C7,H65_NNAP16,Abies religiosa,H,NA,16,H65_NNAP16,forest,CX,16,ozone drougth,19.2858483,-99.3017626,3476.990479,H,65,30_cm,15,NA,10 to 40%,NA,NA,NA,NA,NA,NA,closed,11,8,no,NA,exposed,0,0,0,1,0,1,no
+H79,P2,C6,H79_N4P29,Abies religiosa,H,4,29,H79_N04P29,forest,CX,29,ozone,19.3023651,-99.2983236,3375.922852,H,79,0.5_cm,0.35,4,less than 10%,NA,NA,NA,NA,NA,NA,closed,5,5,no,NA,cover,1,0,0,1,1,1,no
+H8,P1,G12,H8_N6P6,Abies religiosa,H,6,6,H8_N06P06,forest,CX,6,ozone,19.2926142,-99.2987982,3474.179443,H,8,1_cm,0.65,6,less than 10%,NA,NA,NA,NA,NA,NA,closed,5,2,no,NA,cover,1,0,0,0,0,1,no
+H94,P1,F4,H94_N9P31, ,H,9,31,H94_N09P31,forest,CX,31,ozone,19.2982959,-99.299579,3427.75293,H,94,10_cm,2,9,less than 10%,NA,NA,NA,NA,NA,NA,closed,4,3,no,NA,exposed,0,0,0,1,1,1,yes
+I108,P2,B6,I108_N5P34,Abies religiosa,I,5,34,I108_N05P34,forest,PN,34,ozone,19.29534915,-99.31950234,3152,I,108,1_cm,1.2,5,less than 10%,NA,NA,NA,NA,NA,NA,closed,4,3,no,NA,exposed,0,0,0,1,1,1,no
+I111,P3,G10,I111_NNAP39,Abies religiosa,I,NA,39,I111_NNAP39,forest,PN,39,ozone,19.28354336,-99.31662458,3247,I,111,40_cm,28,NA,less than 10%,NA,NA,NA,NA,NA,NA,closed,19,6,yes,female,exposed,0,0,0,0,1,1,no
+I12,P1,E11,I12_N10P6,Abies religiosa,I,10,6,I12_N10P06,forest,CX,6,ozone,19.29252502,-99.29895277,3474,I,12,6_cm,3.8,10,40 to 50%,NA,NA,NA,NA,NA,NA,closed,6,4,no,NA,cover,1,0,0,0,1,1,yes
+I14,P2,G5,I14_N8P6,Abies religiosa,I,8,6,I14_N08P06,forest,CX,6,ozone,19.292514,-99.29895581,3493,I,14,6_cm,2.8,8,40 to 50%,NA,NA,NA,NA,NA,NA,closed,5,4,no,NA,cover,1,1,0,0,1,1,yes
+I15,P1,B2,I15_N13P6,Abies religiosa,I,13,6,I15_N13P06,forest,CX,6,ozone,19.29241422,-99.29884777,3462,I,15,30_cm,6,13,10 to 40%,NA,NA,NA,NA,NA,NA,closed,11,6,no,NA,cover,0,1,0,0,1,1,no
+I16,P2,H9,I16_N8P6,Abies religiosa,I,8,6,I16_N08P06,forest,CX,6,ozone,19.29248695,-99.29880656,3497,I,16,6_cm,2.4,8,40 to 50%,NA,NA,NA,NA,NA,NA,closed,4,3,no,NA,cover,0,1,0,0,1,1,yes
+I2,P4,C2,I2_N10P02,Abies religiosa,I,10,2,I2_N10P02,forest,CX,2,healthy,19.29044034,-99.29917959,3500,I,2,6_cm,2.8,10,NA,NA,NA,NA,NA,NA,NA,closed,4,4,no,NA,cover,0,1,0,0,1,0,yes
+I5,P3,F5,I5_N10P02,Abies religiosa,I,10,2,I5_N10P02,forest,CX,2,healthy,19.29074671,-99.29914486,3502,I,5,6_cm,2.7,10,NA,NA,NA,NA,NA,NA,NA,closed,3,3,no,NA,exposed,0,1,0,0,1,0,yes
+I54,P1,E8,I54_N11P16,Abies religiosa,I,11,16,I54_N11P16,forest,CX,16,healthy,19.28595603,-99.30187826,3491,I,54,10_cm,4.5,11,NA,NA,NA,NA,NA,NA,NA,closed,5,4,no,NA,exposed,0,0,0,1,1,1,yes
+I58,P1,F3,I58_N12P21,Abies religiosa,I,12,21,I58_N12P21,forest,CX,21,healthy,19.28687443,-99.30416632,3443,I,58,6_cm,4.2,12,NA,NA,NA,NA,NA,NA,NA,closed,7,5,no,NA,cover,0,1,0,1,1,0,no
+I6,P1,H1,I6_N5P6,Abies religiosa,I,5,6,I6_N05P06,forest,CX,6,ozone,19.29255364,-99.29898426,3495,I,6,1_cm,1.2,5,10 to 40%,NA,NA,NA,NA,NA,NA,closed,4,3,no,NA,cover,1,1,0,1,1,0,no
+I61,P2,D11,I61_N9P21,Abies religiosa,I,9,21,I61_N09P21,forest,CX,21,ozone,19.28693179,-99.30426254,3460,I,61,6_cm,6,9,less than 10%,NA,NA,NA,NA,NA,NA,closed,6,5,no,NA,exposed,0,0,0,1,1,0,no
+I65,P3,D1,I65_N23P24,Abies religiosa,I,23,24,I65_N23P24,forest,CX,24,ozone drougth other,19.30196917,-99.29249105,3152,I,65,30_cm,12,23,10 to 40%,NA,NA,NA,NA,NA,NA,closed,18,4,no,NA,exposed,0,0,0,1,1,1,no
+I71,P1,C11,I71_NNAP25,Abies religiosa,I,NA,25,I71_NNAP25,forest,CX,25,ozone,19.30678071,-99.29122205,3006,I,71,40_cm,22,NA,10 to 40%,NA,NA,NA,NA,NA,NA,closed,18,4,no,NA,exposed,0,0,0,1,1,1,no
+I74,P1,A2,I74_N14P29,Abies religiosa,I,14,29,I74_N14P29,forest,CX,29,healthy,19.30223869,-99.29844708,3360,I,74,2_cm,4.2,14,NA,NA,NA,NA,NA,NA,NA,closed,7,5,no,NA,cover,1,0,0,1,1,1,no
+I79,P2,D5,I79_N11P29,Abies religiosa,I,11,29,I79_N11P29,forest,CX,29,ozone fungi other,19.30231319,-99.29835824,3311,I,79,6_cm,3,11,less than 10%,NA,NA,NA,NA,NA,NA,closed,7,5,no,NA,exposed,1,0,0,1,1,1,no
+I8,P1,E3,I8_N5P6,Abies religiosa,I,5,6,I8_N05P06,forest,CX,6,ozone,19.2924909,-99.29902653,3481,I,8,1_cm,1,5,less than 10%,NA,NA,NA,NA,NA,NA,closed,3,3,no,NA,cover,1,1,0,1,1,1,no
+I81,P2,G1,I81_N13P29,Abies religiosa,I,13,29,I81_N13P29,forest,CX,29,ozone,19.30225752,-99.29839558,3394,I,81,10_cm,8.5,13,less than 10%,NA,NA,NA,NA,NA,NA,closed,10,6,no,NA,exposed,1,0,0,1,1,1,no
+I83,P3,G3,I83_N09P31,Abies religiosa,I,9,31,I83_N09P31,forest,CX,31,ozone,19.29834543,-99.29947498,3433,I,83,6_cm,3.5,9,10 to 40%,NA,NA,NA,NA,NA,NA,closed,5,4,no,NA,exposed,0,0,0,1,1,0,yes
+I93,P3,G11,I93_N05P31,Abies religiosa,I,5,31,I93_N05P31,forest,CX,31,healthy,19.29840408,-99.29964044,3420,I,93,0.5_cm,0.4,5,NA,NA,NA,NA,NA,NA,NA,closed,3,3,no,NA,cover,0,0,0,1,1,1,no
+I96,P4,G11,I96_N10P34,Abies religiosa,I,10,34,I96_N10P34,forest,PN,34,ozone drougth,19.2952904,-99.31956802,3100,I,96,6_cm,5,10,10 to 40%,NA,NA,NA,NA,NA,NA,closed,7,4,no,NA,exposed,1,0,0,1,1,1,no
+I97,P1,C1,I97_N11P34,Abies religiosa,I,11,34,I97_N11P34,forest,PN,34,ozone,19.29532239,-99.31949309,3108,I,97,10_cm,7,11,less than 10%,NA,NA,NA,NA,NA,NA,closed,8,4,no,NA,exposed,0,0,0,1,1,1,yes
+J11,P2,H7,J11_N5P4,Abies religiosa,J,5,4,J11_N05P04,forest,CX,4,healthy,19.2924107,-99.29936,3423,J,11,2_cm,3,5,NA,NA,NA,NA,NA,NA,NA,closed,5,4,no,NA,cover,0,0,0,1,1,0,yes
+J136,P2,G2,J136_NNAP46,Abies religiosa,J,NA,46,J136_NNAP46,forest,CX,46,healthy,19.2923831,-99.2954919,3474,J,136,40_cm,22,NA,NA,NA,NA,NA,NA,NA,NA,closed,8,4,yes,female,exposed,1,1,0,1,1,1,no
+J33,P3,C10,J33_N04P10,Abies religiosa,J,4,10,J33_N04P10,forest,CX,10,ozone other,19.290443,-99.3062729,3478,J,33,1_cm,1.25,4,10 to 40%,NA,NA,NA,NA,NA,NA,closed,4,3,no,NA,cover,1,0,0,1,1,1,no
+J35,P4,F6,J35_N05P10,Abies religiosa,J,5,10,J35_N05P10,forest,CX,10,healthy,19.2904249,-99.3063016,3483,J,35,1_cm,0.95,5,NA,NA,NA,NA,NA,NA,NA,closed,5,4,no,NA,cover,1,0,0,1,1,1,no
+J53,P1,C9,J53_N4P13,Abies religiosa,J,4,13,J53_N04P13,forest,CX,13,healthy,19.2919973,-99.3065399,3455,J,53,2_cm,1.2,4,NA,NA,NA,NA,NA,NA,NA,closed,3,3,no,NA,exposed,1,1,0,1,1,1,yes
+J57,P2,H3,J57_N6P13,Abies religiosa,J,6,13,J57_N06P13,forest,CX,13,healthy,19.2919919,-99.3065853,3468,J,57,6_cm,3.5,6,NA,NA,NA,NA,NA,NA,NA,closed,3,3,no,NA,cover,1,1,0,1,1,1,yes
+J62,P3,F10,J62_NNAP18,Abies religiosa,J,NA,18,J62_NNAP18,forest,CX,18,healthy,19.2854955,-99.3021737,3458,J,62,30_cm,15,NA,NA,NA,NA,NA,NA,NA,NA,closed,9,7,no,NA,exposed,1,1,0,1,1,1,no
+J71,P2,E2,J71_N8P19,Abies religiosa,J,8,19,J71_N08P19,forest,CX,19,ozone,19.2865696,-99.3047394,3438,J,71,10_cm,9,8,less than 10%,NA,NA,NA,NA,NA,NA,closed,10,7,no,NA,exposed,1,0,0,1,1,1,no
+J75,P4,D11,J75_N06P20,Abies religiosa,J,6,20,J75_N06P20,forest,CX,20,ozone other,19.2867989,-99.3046974,3449,J,75,6_cm,7,6,less than 10%,NA,NA,NA,NA,NA,NA,closed,2,2,no,NA,cover,1,0,0,1,1,1,no
+J81,P3,G5,J81_N03P27,Abies religiosa,J,3,27,J81_N03P27,forest,CX,27,other,19.3076933,-99.2910186,3018,J,81,0.5_cm,0.7,3,NA,less_10,1,0,0,0,0,closed,4,3,no,NA,cover,1,0,1,1,1,1,yes
+J89,P1,B3,J89_NNAP28,Abies religiosa,J,NA,28,J89_NNAP28,forest,CX,28,ozone,19.3018289,-99.2977717,3335,J,89,40_cm,30,NA,less than 10%,NA,NA,NA,NA,NA,NA,closed,15,8,not_sure,NA,exposed,1,0,0,1,1,1,no
+J90,P3,A6,J90_NNAP28,Abies religiosa,J,NA,28,J90_NNAP28,forest,CX,28,healthy,19.3018375,-99.297833,3324,J,90,40_cm,28,NA,NA,NA,NA,NA,NA,NA,NA,closed,5,4,no,NA,exposed,1,0,0,1,1,1,no
+J91,P1,E2,J91_NNAP28,Abies religiosa,J,NA,28,J91_NNAP28,forest,CX,28,ozone,19.3017785,-99.2978087,3335,J,91,40_cm,18,NA,less than 10%,NA,NA,NA,NA,NA,NA,closed,5,3,not_sure,NA,cover,1,0,0,1,1,1,no
+J92,P1,G11,J92_NNAP28,Abies religiosa,J,NA,28,J92_NNAP28,forest,CX,28,healthy,19.3018669,-99.2976738,3347,J,92,40_cm,25,NA,NA,NA,NA,NA,NA,NA,NA,closed,6,5,not_sure,NA,exposed,1,0,0,1,1,1,no
+K1,P2,F7,K1_N8P3,Abies religiosa,K,8,3,K1_N08P03,forest,CX,3,ozone,19.2904802,-99.2993526,3489.2,K,1,6_cm,3.5,8,10 to 40%,NA,NA,NA,NA,NA,NA,closed,4,4,no,NA,cover,0,1,0,0,0,0,yes
+K10,P2,C8,K10_N3P3,Abies religiosa,K,3,3,K10_N03P03,forest,CX,3,healthy,19.2905661,-99.2993121,3499.6,K,10,1_cm,0.6,3,NA,NA,NA,NA,NA,NA,NA,closed,2,2,no,NA,exposed,1,1,0,0,1,0,no
+K100,P2,H6,K100_N12P33,Abies religiosa,K,12,33,K100_N12P33,forest,CX,33,healthy,19.2987685,-99.2994801,3428.8,K,100,10_cm,8,12,NA,NA,NA,NA,NA,NA,NA,closed,9,7,no,NA,cover,1,0,0,0,0,0,no
+K103,P1,A5,K103_N14P33,Abies religiosa,K,14,33,K103_N14P33,forest,CX,33,healthy,19.2988132,-99.2993533,3422,K,103,30_cm,11,14,NA,NA,NA,NA,NA,NA,NA,closed,10,9,no,NA,exposed,0,0,0,0,0,1,no
+K104,P4,D2,K104_N03P42,Abies religiosa,K,3,42,K104_N03P42,forest,PN,42,healthy,19.275495,-99.3072183,3423.6,K,104,0.5_cm,0.5,3,NA,NA,NA,NA,NA,NA,NA,open,2,2,no,NA,cover,0,0,0,0,0,1,no
+K11,P1,A7,K11_N4P1,Abies religiosa,K,4,1,K11_N04P01,forest,CX,1,healthy,19.2902528,-99.2992336,3495.8,K,11,1_cm,0.7,4,NA,NA,NA,NA,NA,NA,NA,closed,2,2,no,NA,exposed,0,1,0,0,1,0,no
+K118,P3,C9,K118_NNAP45,Abies religiosa,K,NA,45,K118_NNAP45,forest,PN,45,healthy,19.2890461,-99.3162067,3168.7,K,118,40_cm,18,NA,NA,NA,NA,NA,NA,NA,NA,closed,9,6,no,NA,exposed,0,0,0,0,0,1,no
+K11r,P1,H6,K11r_N4P1,Abies religiosa,K,4,1,K11r_N04P01,forest,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+K121,P1,H3,K121_N11P47,Abies religiosa,K,11,47,K121_N11P47,forest,CX,47,healthy,19.2923851,-99.2952931,3503,K,121,10_cm,4,11,NA,NA,NA,NA,NA,NA,NA,closed,7,7,no,NA,cover,0,0,0,0,1,0,no
+K122,P1,E10,K122_N10P47,Abies religiosa,K,10,47,K122_N10P47,forest,CX,47,healthy,19.2924185,-99.2952587,3475,K,122,10_cm,4.5,10,NA,NA,NA,NA,NA,NA,NA,closed,8,8,no,NA,exposed,0,0,0,0,1,0,no
+K124,P2,D2,K124_N13P48,Abies religiosa,K,13,48,K124_N13P48,forest,CX,48,healthy,19.2926312,-99.2949485,3483.7,K,124,10_cm,4,13,NA,NA,NA,NA,NA,NA,NA,closed,8,7,no,NA,cover,0,0,0,0,1,0,no
+K125,P2,A4,K125_N11P48,Abies religiosa,K,11,48,K125_N11P48,forest,CX,48,healthy,19.2926483,-99.2950032,3482.8,K,125,10_cm,4,11,NA,NA,NA,NA,NA,NA,NA,open,6,6,no,NA,cover,0,0,0,0,1,0,no
+K14,P1,F8,K14_NNAP5,Abies religiosa,K,NA,5,K14_NNAP05,forest,CX,5,ozone,19.2927789,-99.2992912,3485.1,K,14,40_cm,17,NA,less than 10%,NA,NA,NA,NA,NA,NA,open,5,4,not_sure,NA,exposed,1,0,0,0,0,0,no
+K23,P2,H4,K23_N8P5,Abies religiosa,K,8,5,K23_N08P05,forest,CX,5,ozone,19.2927085,-99.2992139,3499.8,K,23,6_cm,3,8,10 to 40%,NA,NA,NA,NA,NA,NA,closed,4,4,no,NA,exposed,1,0,0,0,0,0,no
+K25,P2,E6,K25_N15P5,Abies religiosa,K,15,5,K25_N15P05,forest,CX,5,ozone,19.2926382,-99.2993499,3498.9,K,25,30_cm,13,15,less than 10%,NA,NA,NA,NA,NA,NA,closed,9,6,no,NA,exposed,0,0,0,0,1,0,no
+K29,P2,F10,K29_N7P8,Abies religiosa,K,7,8,K29_N07P08,forest,CX,8,healthy,19.2903424,-99.3031793,3513.4,K,29,2_cm,2.5,7,NA,NA,NA,NA,NA,NA,NA,closed,4,4,no,NA,exposed,0,0,0,0,1,0,no
+K3,P3,A11,K3_N08P03,Abies religiosa,K,8,3,K3_N08P03,forest,CX,3,healthy,19.2904381,-99.299344,3514.2,K,3,6_cm,3,8,NA,NA,NA,NA,NA,NA,NA,closed,4,4,no,NA,cover,0,1,0,0,0,0,yes
+K30,P4,H3,K30_N11P08,Abies religiosa,K,11,8,K30_N11P08,forest,CX,8,healthy,19.2903958,-99.3029892,3513.9,K,30,10_cm,5,11,NA,NA,NA,NA,NA,NA,NA,closed,8,8,no,NA,cover,0,1,0,0,0,0,no
+K41,P1,G5,K41_N14P11,Abies religiosa,K,14,11,K41_N14P11,forest,CX,11,ozone,19.2907983,-99.3066647,3475,K,41,30_cm,9,14,10 to 40%,NA,NA,NA,NA,NA,NA,closed,9,7,no,NA,exposed,0,0,0,0,0,1,no
+K45,P2,D7,K45_NNAP11,Abies religiosa,K,NA,11,K45_NNAP11,forest,CX,11,healthy,19.2908864,-99.3066622,3487.3,K,45,40_cm,35,NA,NA,NA,NA,NA,NA,NA,NA,closed,10,7,yes,female,exposed,0,0,0,0,0,1,no
+K49,P1,D6,K49_N13P11,Abies religiosa,K,13,11,K49_N13P11,forest,CX,11,ozone,19.2907147,-99.3067021,3500.3,K,49,10_cm,8,13,10 to 40%,NA,NA,NA,NA,NA,NA,closed,9,8,no,NA,exposed,0,0,0,0,1,0,no
+K51,P1,D5,K51_N14P11,Abies religiosa,K,14,11,K51_N14P11,forest,CX,11,healthy,19.2906995,-99.3066076,3490.7,K,51,10_cm,9,14,NA,NA,NA,NA,NA,NA,NA,closed,10,8,no,NA,exposed,1,0,0,0,0,1,no
+K52,P1,A11,K52_N11P11,Abies religiosa,K,11,11,K52_N11P11,forest,CX,11,ozone,19.2906898,-99.3066378,3492.7,K,52,10_cm,6,11,10 to 40%,NA,NA,NA,NA,NA,NA,closed,9,8,no,NA,exposed,0,0,0,0,1,0,no
+K56,P1,D11,K56_N16P15,Abies religiosa,K,16,15,K56_N16P15,forest,CX,15,healthy,19.2931952,-99.3069188,3464.5,K,56,30_cm,10,16,NA,NA,NA,NA,NA,NA,NA,closed,10,9,no,NA,exposed,0,0,0,0,1,0,no
+K6,P2,B3,K6_N3P3,Abies religiosa,K,3,3,K6_N03P03,forest,CX,3,ozone,19.2905544,-99.2993487,3505.4,K,6,2_cm,0.8,3,10 to 40%,NA,NA,NA,NA,NA,NA,closed,2,2,no,NA,exposed,1,1,0,0,1,0,no
+K62,P4,E7,K62_N09P17,Abies religiosa,K,9,17,K62_N09P17,forest,CX,17,ozone,19.2850748,-99.3019593,3491.3,K,62,10_cm,5,9,40 to 50%,NA,NA,NA,NA,NA,NA,closed,7,6,no,NA,exposed,0,0,0,0,1,0,no
+K63,P1,D12,K63_N7P17,Abies religiosa,K,7,17,K63_N07P17,forest,CX,17,ozone,19.2850612,-99.301919,3484.2,K,63,10_cm,5,7,10 to 40%,NA,NA,NA,NA,NA,NA,closed,6,6,no,NA,exposed,0,0,0,0,1,0,no
+K69,P1,C4,K69_N10P20,Abies religiosa,K,10,20,K69_N10P20,forest,CX,20,healthy,19.2867195,-99.3047576,3477.3,K,69,6_cm,4,10,NA,NA,NA,NA,NA,NA,NA,open,7,5,no,NA,cover,1,0,0,0,0,0,no
+K7,P4,F5,K7_N03P03,Abies religiosa,K,3,3,K7_N03P03,forest,CX,3,healthy,19.2905396,-99.2992864,3506.9,K,7,1_cm,0.6,3,NA,NA,NA,NA,NA,NA,NA,closed,2,2,no,NA,exposed,1,1,0,0,1,0,no
+K70,P2,C10,K70_N9P20,Abies religiosa,K,9,20,K70_N09P20,forest,CX,20,healthy,19.2867904,-99.3047826,3477.1,K,70,6_cm,5,9,NA,NA,NA,NA,NA,NA,NA,open,8,7,no,NA,cover,1,0,0,0,0,0,no
+K71,P2,D12,K71_N12P20,Abies religiosa,K,12,20,K71_N12P20,forest,CX,20,healthy,19.2869069,-99.3046952,3472.7,K,71,10_cm,8,12,NA,NA,NA,NA,NA,NA,NA,open,6,4,no,NA,cover,1,0,0,0,0,0,no
+K72,P4,A2,K72_N06P20,Abies religiosa,K,6,20,K72_N06P20,forest,CX,20,healthy,19.2868131,-99.3046374,3472.3,K,72,6_cm,6,6,NA,NA,NA,NA,NA,NA,NA,open,6,5,no,NA,cover,1,0,0,0,0,0,no
+K74,P4,C4,K74_NNAP23,Abies religiosa,K,NA,23,K74_NNAP23,forest,CX,23,healthy,19.3020521,-99.2921064,3177.8,K,74,30_cm,30,NA,NA,NA,NA,NA,NA,NA,NA,open,12,6,no,NA,cover,1,0,0,0,0,0,no
+K78,P3,E9,K78_N05P26,Abies religiosa,K,5,26,K78_N05P26,forest,CX,26,healthy,19.3075604,-99.2906852,3071.2,K,78,1_cm,1.3,5,NA,NA,NA,NA,NA,NA,NA,closed,4,4,no,NA,exposed,0,0,0,0,0,1,yes
+K88,P1,E9,K88_N4P30,Abies religiosa,K,4,30,K88_N04P30,forest,CX,30,healthy,19.3017805,-99.2982338,3394.5,K,88,1_cm,0.7,4,NA,NA,NA,NA,NA,NA,NA,closed,2,2,no,NA,exposed,0,0,0,0,0,1,no
+K94,P3,C5,K94_N08P29,Abies religiosa,K,8,29,K94_N08P29,forest,CX,29,healthy,19.3021534,-99.298386,3369.8,K,94,2_cm,2,8,NA,NA,NA,NA,NA,NA,NA,open,7,5,no,NA,cover,1,0,0,0,0,0,no
+K96,P1,B4,K96_N13P33,Abies religiosa,K,13,33,K96_N13P33,forest,CX,33,healthy,19.2988868,-99.2994267,3431.8,K,96,10_cm,7,13,NA,NA,NA,NA,NA,NA,NA,closed,8,7,no,NA,exposed,0,0,0,0,0,1,no
+K98,P2,B2,K98_N12P33,Abies religiosa,K,12,33,K98_N12P33,forest,CX,33,ozone,19.2988165,-99.2993788,3429.1,K,98,10_cm,8,12,10 to 40%,NA,NA,NA,NA,NA,NA,closed,8,7,no,NA,exposed,1,0,0,0,0,0,no
+K99,P1,E1,K99_N10P33,Abies religiosa,K,10,33,K99_N10P33,forest,CX,33,ozone,19.2987992,-99.2994742,3429,K,99,30_cm,7,10,less than 10%,NA,NA,NA,NA,NA,NA,closed,8,7,no,NA,exposed,1,0,0,0,0,0,no
+L101,P2,B4,L101_N5P41,Abies religiosa,L,5,41,L101_N05P41,forest,PN,41,healthy,19.2749853,-99.3080703,3417,L,101,2_cm,1.4,5,NA,NA,NA,NA,NA,NA,NA,closed,5,3,no,NA,cover,1,0,0,1,1,0,no
+L16,P4,H10,L16_N11P05,Abies religiosa,L,11,5,L16_N11P05,forest,CX,5,healthy,19.2927816,-99.2992785,3484,L,16,10_cm,5,11,NA,NA,NA,NA,NA,NA,NA,closed,6,4,no,NA,cover,1,0,1,0,0,0,no
+L76,P2,C9,L76_N5P30,Abies religiosa,L,5,30,L76_N05P30,forest,CX,30,healthy,NA,NA,NA,L,76,1_cm,1,5,NA,NA,NA,NA,NA,NA,NA,open,4,3,no,NA,cover,1,0,0,1,0,0,no
+L88,P2,G8,L88_N9P33,Abies religiosa,L,9,33,L88_N09P33,forest,CX,33,ozone,19.2988959,-99.2994471,3409,L,88,10_cm,7,9,10 to 40%,NA,NA,NA,NA,NA,NA,closed,7,7,no,NA,cover,1,0,0,1,0,0,no
+M12,P4,D9,M12_NNAP14,Abies religiosa,M,NA,14,M12_NNAP14,forest,CX,14,healthy,19.2920608,-99.306145,3376.922636,M,12,10_cm,16,NA,NA,NA,NA,NA,NA,NA,NA,closed,20,4,no,NA,cover,1,0,0,1,1,1,no
+M13,P3,H3,M13_NNAP20,Abies religiosa,M,NA,20,M13_NNAP20,forest,CX,20,ozone,19.2867852,-99.3045852,3437.662109,M,13,10_cm,15,NA,10 to 40%,NA,NA,NA,NA,NA,NA,closed,7,4,no,NA,exposed,1,0,0,0,0,0,no
+M18,P2,F1,M18_N13P29,Abies religiosa,M,13,29,M18_N13P29,forest,CX,29,healthy,19.3022877,-99.298493,3380.932272,M,18,0.5_cm,0.6,13,NA,NA,NA,NA,NA,NA,NA,closed,6,3,no,NA,cover,1,0,0,0,0,0,no
+M19,P2,B12,M19_N13P32,Abies religiosa,M,13,32,M19_N13P32,forest,CX,32,ozone,19.2979264,-99.3002854,3411.056872,M,19,2_cm,1.6,13,less than 10%,NA,NA,NA,NA,NA,NA,closed,3,3,no,NA,cover,1,0,0,0,1,0,no
+M2,P1,D9,M2_N5P9,Abies religiosa,M,5,9,M2_N05P09,forest,CX,9,healthy,19.2909419,-99.3023421,3510.757439,M,2,1_cm,0.5,5,NA,NA,NA,NA,NA,NA,NA,closed,4,3,no,NA,cover,1,1,0,0,1,0,no
+M26,P3,G12,M26_NNAP34,Abies religiosa,M,NA,34,M26_NNAP34,forest,PN,34,ozone,19.2953593,-99.3193402,3076.410592,M,26,40_cm,40,NA,40 to 50%,NA,NA,NA,NA,NA,NA,closed,20,7,yes,male,exposed,1,0,0,0,0,0,no
+M29,P1,D8,M29_N15P34,Abies religiosa,M,15,34,M29_N15P34,forest,PN,34,healthy,19.2950415,-99.3196234,2983.846794,M,29,10_cm,12,15,NA,NA,NA,NA,NA,NA,NA,closed,7,3,no,NA,cover,1,0,0,0,0,0,no
+M2r,P2,H5,M2r_N5P9,Abies religiosa,M,5,9,M2r_N05P09,forest,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M30,P2,H8,M30_N12P34,Abies religiosa,M,12,34,M30_N12P34,forest,PN,34,healthy,19.2951412,-99.3194951,3115.145522,M,30,6_cm,12,12,NA,NA,NA,NA,NA,NA,NA,closed,9,4,no,NA,cover,1,0,0,1,0,0,no
+M33,P2,G3,M33_N16P39,Abies religiosa,M,16,39,M33_N16P39,forest,PN,39,healthy,19.2834954,-99.316856,3415.718859,M,33,10_cm,12,16,NA,NA,NA,NA,NA,NA,NA,closed,10,6,no,NA,cover,1,0,0,0,0,0,no
+M35,P3,F3,M35_N10P39,Abies religiosa,M,10,39,M35_N10P39,forest,PN,39,healthy,19.2836774,-99.3166136,3196.301712,M,35,2_cm,3.5,10,NA,NA,NA,NA,NA,NA,NA,closed,4,3,no,NA,cover,1,1,0,0,0,0,no
+M39,P2,C7,M39_N13P42,Abies religiosa,M,13,42,M39_N13P42,forest,PN,42,healthy,19.2747656,-99.3078924,3379.562974,M,39,2_cm,1.1,13,NA,NA,NA,NA,NA,NA,NA,closed,8,5,no,NA,cover,1,0,0,1,1,0,no
+M6,P1,E6,M6_NNAP9,Abies religiosa,M,NA,9,M6_NNAP09,forest,CX,9,healthy,19.2909874,-99.3020735,3540.010591,M,6,40_cm,40,NA,NA,NA,NA,NA,NA,NA,NA,closed,15,4,yes,female,exposed,1,1,0,0,0,0,no
+PP1,P2,C1,PP1_NNAP1,Abies religiosa,mother,NA,1,PP01_NNAP01,potential_mother,PP,1,healthy,19.2916756,-99.2988853,3467,PP,1,40_cm,22,NA,NA,NA,NA,NA,NA,NA,NA,closed,7,3,yes,female,exposed,1,1,0,1,1,1,no
+PP3,P4,D7,PP3_NNAP01,Abies religiosa,mother,NA,1,PP03_NNAP01,potential_mother,PP,1,ozone other,19.2917627,-99.2988969,3487,PP,3,40_cm,15,NA,less than 10%,NA,NA,NA,NA,NA,NA,closed,9,4,no,NA,exposed,1,1,0,1,1,1,no
+PP4,P2,A5,PP4_NNAP1,Abies religiosa,mother,NA,1,PP04_NNAP01,potential_mother,PP,1,healthy,19.2915411,-99.2988987,3494,PP,4,40_cm,21,NA,NA,NA,NA,NA,NA,NA,NA,closed,7,4,no,NA,exposed,1,1,0,1,1,1,no
+PP4r,P2,F4,PP4r_NNAP1,Abies religiosa,mother,NA,1,PP04r_NNAP01,potential_mother,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PP5,P2,A10,PP5_NNAP1,Abies religiosa,mother,NA,1,PP05_NNAP01,potential_mother,PP,1,healthy,19.2914756,-99.2991918,3497,PP,5,40_cm,20,NA,NA,NA,NA,NA,NA,NA,NA,closed,8,4,yes,female,exposed,1,1,0,1,1,1,no
+VD01,P3,E10,VD01_1516,Abies religiosa,transcriptomic,NA,NA,VD01_transcriptomic,symptomatic_transcriptomic,NA,NA,NA,19.285,-99.301,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+VD02,P3,B10,VD02_1516,Abies religiosa,transcriptomic,NA,NA,VD02_transcriptomic,symptomatic_transcriptomic,NA,NA,NA,19.285,-99.301,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+VD02r,P1,D7,VD2_NNAPNA,Abies religiosa,transcriptomic,NA,NA,VD2r_transcriptomic,symptomatic_transcriptomic,NA,NA,NA,19.285,-99.301,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+VD03r,P2,B11,VD3_NNAPNA,Abies religiosa,transcriptomic,NA,NA,VD3r_transcriptomic,symptomatic_transcriptomic,NA,NA,NA,19.285,-99.301,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+VD04,P3,G1,VD04_1516,Abies religiosa,transcriptomic,NA,NA,VD04_transcriptomic,symptomatic_transcriptomic,NA,NA,NA,19.285,-99.301,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+VD04r,P1,D3,VD4_NNAPNA,Abies religiosa,transcriptomic,NA,NA,VD4r_transcriptomic,symptomatic_transcriptomic,NA,NA,NA,19.285,-99.301,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+VD05,P4,C6,VD05_1516,Abies religiosa,transcriptomic,NA,NA,VD05_transcriptomic,symptomatic_transcriptomic,NA,NA,NA,19.285,-99.301,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+VS01,P3,F8,VS01_1516,Abies religiosa,transcriptomic,NA,NA,VS01_transcriptomic,assyntomatic_transcriptomic,NA,NA,NA,19.285,-99.301,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+VS02,P4,C1,VS02_1516,Abies religiosa,transcriptomic,NA,NA,VS02_transcriptomic,assyntomatic_transcriptomic,NA,NA,NA,19.285,-99.301,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+VS03,P3,B4,VS03_1516,Abies religiosa,transcriptomic,NA,NA,VS03_transcriptomic,assyntomatic_transcriptomic,NA,NA,NA,19.285,-99.301,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+VS04,P3,D2,VS04_1516,Abies religiosa,transcriptomic,NA,NA,VS04_transcriptomic,assyntomatic_transcriptomic,NA,NA,NA,19.285,-99.301,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+VS04r,P1,F2,VS4_NNAPNA,Abies religiosa,transcriptomic,NA,NA,VS4r_transcriptomic,assyntomatic_transcriptomic,NA,NA,NA,19.285,-99.301,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+VS05,P3,G8,VS05_1516,Abies religiosa,transcriptomic,NA,NA,VS05_transcriptomic,assyntomatic_transcriptomic,NA,NA,NA,19.285,-99.301,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

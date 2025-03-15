@@ -1,9 +1,9 @@
 {
     "id": "7A34017A",
-    "path": "C:/Users/OmarS/OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO/IND_PNDL.2/ensamble/ensamble_parametros/valores_optimos.R",
+    "path": "F:/Gih/Genomica_del_paisaje/pasos_en_R/ensamble_parametros/valores_optimos.R",
     "project_path": "valores_optimos.R",
     "type": "r_source",
-    "hash": "748796252",
+    "hash": "2631063391",
     "contents": "",
     "dirty": false,
     "created": 1733373254117.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "76,0",
-        "scrollLine": "53"
+        "cursorPosition": "104,0",
+        "scrollLine": "85"
     },
-    "folds": "",
-    "lastKnownWriteTime": 1734509054,
+    "folds": "10|23|78|2|\n",
+    "lastKnownWriteTime": 1739861433,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1734509054917,
+    "last_content_update": 1741049270525,
     "read_only": false,
     "read_only_alternatives": []
 }

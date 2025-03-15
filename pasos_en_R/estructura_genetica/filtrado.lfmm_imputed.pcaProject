@@ -1,6 +1,0 @@
-new("pcaProject", projDir = "F:/pasos_en_R/estructura_genetica/", 
-    pcaDir = "filtrado.lfmm_imputed.pca/", n = 189L, L = 254L, 
-    K = 189L, center = TRUE, scale = FALSE, pcaProject.file = "filtrado.lfmm_imputed.pcaProject", 
-    input.file = "filtrado.lfmm_imputed.lfmm", eigenvalue.file = "filtrado.lfmm_imputed.eigenvalues", 
-    eigenvector.file = "filtrado.lfmm_imputed.eigenvectors", 
-    sdev.file = "filtrado.lfmm_imputed.sdev", projection.file = "filtrado.lfmm_imputed.projections")

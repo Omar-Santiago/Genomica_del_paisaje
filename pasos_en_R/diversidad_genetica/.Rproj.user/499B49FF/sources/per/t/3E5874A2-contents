@@ -1,0 +1,182 @@
+######## Paquetes ###########
+#if (!requireNamespace("BiocManager", quietly = TRUE))
+#  install.packages("BiocManager")
+
+#BiocManager::install("adegenet")
+#install.packages("adegenet")
+#install.packages("pcadapt")
+library(usethis)
+library("devtools")
+#install_github("Andrew-Shirk/sGD")
+library("sGD") # para obtener medidad de diversida segun coordenadas
+
+library(LEA) # para correr snmf
+library(vcfR)
+library(ade4)
+library(adegenet) # para dapc y find.cluster
+library(ggplot2)
+library(dplyr)
+library(dartR)
+library(pcadapt) # para pca
+library(fsthet) # eliminar sesgo placa3 (no funciono)
+
+library(algatr)
+#envirodata_packages()
+library(terra) # cosas geograficas
+library(raster) # cosas geograficas
+library(sf)
+library(RStoolbox)
+library(ggplot2)
+library(geodata) # cosas geograficas
+library(viridisLite)
+library(viridis)
+library(wingen) # diversidad genetica
+library(tidyr)
+library(tibble)
+
+#
+########## pca (pcadapt)#######
+ped2lfmm("paisaje.ped")
+filename <- read.pcadapt("paisaje.lfmm", type = "lfmm")
+x <- pcadapt(input = filename, K = 20) 
+plot(x, option = "screeplot")
+plot(x, option = "scores", i = 1, j = 2)
+#
+########## dapc #######
+# creamos un genlight con dart
+vcfR_paisaje <- read.vcfR("F:/Gih/Genomica_del_paisaje/pasos_en_R/todas_muestras/muestras_paisaje.recode.vcf")
+vcf_paisaje<-vcfR2genlight(vcfR_paisaje)
+vcf_paisaje@ind.names
+
+# corremos find.cluster previo a nuestro dapc
+grp <- find.clusters(vcf_paisaje, max.n.clust = 4, n.pca = 100, choose = FALSE, stat = "BIC", method = "kmeans")
+plot(grp$Kstat, type = "o", xlab = "number of clusters (K)",
+     ylab = "BIC",
+     main = "find.clusters on a genlight object\n(two groups)")
+
+grp$grp
+
+grupos_formados <- as.data.frame(grp$grp)
+write.csv(grupos_formados, "grupos_formados_find.clusters_2.csv")
+
+dapc1 <- dapc(vcf_paisaje, grp$grp, n.pca = 20, n.da = 6) 
+scatter(dapc1) # plot of the group
+
+#
+########## snmf ##########
+# Se requiere un archivo en formato genepop, asi que primero usaremos PGDSpider para convertir el vcf a ped para 
+# despues usar la funcion ped2geno
+
+ped2geno("paisaje.ped")
+ped_data <- read.table("paisaje.ped", header = FALSE, sep = " ")
+geno <- read.geno("paisaje.geno")
+snmf_estructura = snmf("paisaje.geno", 
+                       iterations=100, K=1:10, rep=30, 
+                       entropy=T, CPU=4, ploidy=2, 
+                       project="new")
+plot(snmf_estructura,lwd=8,col="#9215D0",pch=1, cex=2)
+snmf_ind_estructura = load.snmfProject("paisaje.snmfProject")
+best=which.min(cross.entropy(snmf_ind_estructura, K=2))
+my.colors <- c("tomato", "lightblue",
+               "olivedrab", "gold")
+snmf_ind_estructura
+barchart(snmf_ind_estructura, K = 2, run = best,
+         border = NA, space = 0,
+         col = my.colors,
+         xlab = "Individuos",
+         ylab = "Proporciones ancestrales",
+         main = "Ancestria") -> bp
+axis(1, at = 1:length(bp$order),
+     labels = bp$order, las=1,
+     cex.axis = .4)
+
+# ESstas muestras equivalen al grupo genetico 1:
+# 1  16  17  26  35  36  43  44  51  53  60  86  94  97 105 113 118 124 127 129 133 141 167 176 180 184
+# estas equivalen a los individuos: 
+grupo <- as.data.frame(ped_data$V2)
+grupo1 <- grupo[c(1,16,17,26,35,36,43,44,51,53,60,86,94,97,105,113,118,124,127,129,133,141,167,176,180,184),]
+write.table(grupo1, "grupo1.txt")
+#
+########## SNMF_2 #############
+# eliminamos el grupo1 y despues volvemos a correr el snmf #
+# vcftools --vcf /mnt/f/Gih/Genomica_del_paisaje/pasos_en_R/todas_muestras/muestras_paisaje.recode.vcf 
+# --remove grupo1.txt --recode --recode-INFO-all --out snmf_2
+# usamos PDGSpider para pasar de vcf a ped
+
+ped2geno("ped_2.ped")
+
+snmf_2 = snmf("ped_2.geno", 
+              iterations=100, K=1:10, rep=30, 
+              entropy=T, CPU=4, ploidy=2, 
+              project="new")
+plot(snmf_2,lwd=8,col="#9215D0",pch=1, cex=2)
+snmf_2 = load.snmfProject("ped_2.snmfProject")
+best=which.min(cross.entropy(snmf_2, K=4))
+my.colors <- c("tomato", "lightblue",
+               "olivedrab", "gold")
+barchart(snmf_2, K = 4, run = best,
+         border = NA, space = 0,
+         col = my.colors,
+         xlab = "Individuos",
+         ylab = "Proporciones ancestrales",
+         main = "Ancestria") -> bp
+axis(1, at = 1:length(bp$order),
+     labels = bp$order, las=1,
+     cex.axis = .4)
+
+ped2lfmm("ped_2.ped")
+file_ped <- read.pcadapt("ped_2.lfmm", type = "lfmm")
+x2 <- pcadapt(input = file_ped, K = 20) 
+plot(x2, option = "screeplot")
+plot(x2, option = "scores", i = 1, j = 2)
+
+#
+########## colinearidad ########
+
+# cargamos los datos de las coordenadas y datos geneticos 
+coord <- read.csv("F:/fenotipo_ambiente/ambiente/Qgis (1)/ind_gbs_coord.csv")
+puntos <- st_as_sf(coord, coords = c("longitude", "latitude"), crs = 6369)
+print(puntos)
+
+IBD_dist <- geo_dist(puntos, type = "Euclidean")
+
+proj <- CRS("+init=epsg:6369")
+xy_points <- SpatialPoints(coord[, c(2, 3)], proj4string = proj)
+IBD_dist <- distmat(xy_points,method="ed")
+IBD_dist [1:10,1:10]
+
+vcfR_paisaje <- read.vcfR("F:/Gih/Genomica_del_paisaje/pasos_en_R/todas_muestras/muestras_paisaje.recode.vcf")
+
+paisaje_gen <- vcfR2genind(vcfR_paisaje)
+pop(paisaje_gen) <- coord$pop
+
+radius <- 500 # for this demo, units are in meters 6000
+IBD_GD <- sGD(paisaje_gen,
+              coord,
+              IBD_dist,
+              radius,
+              min_N=5,
+              metrics="GD")
+
+write.csv(IBD_GD, "IBD_GD_resultado.csv")
+
+# esta aproximacion es menos eficiente y una mas actual es la propuesta por Bishop: 
+# https://doi.org/10.1111/2041-210X.14090  
+# pero esta aproximacion se realizara en el proyecto de diversidad_genetica
+
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

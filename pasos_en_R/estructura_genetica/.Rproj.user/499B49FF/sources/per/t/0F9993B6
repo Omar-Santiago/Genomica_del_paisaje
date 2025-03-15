@@ -1,0 +1,27 @@
+{
+    "id": "0F9993B6",
+    "path": "F:/Gih/Genomica_del_paisaje/pasos_en_R/estructura_genetica/estructura.R",
+    "project_path": "estructura.R",
+    "type": "r_source",
+    "hash": "1797190593",
+    "contents": "",
+    "dirty": false,
+    "created": 1739126564494.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "701,0",
+        "scrollLine": "0"
+    },
+    "folds": "0|18|35|1|\n36|23|73|1|\n74|16|102|0|\n103|24|136|0|\n137|35|199|1|\n179|64|181|0|\n200|31|219|0|\n220|62|275|0|\n276|65|407|0|\n639|29|698|0|\n",
+    "lastKnownWriteTime": 1741990135,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1741990135895,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,16 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf /mnt/f/Gih/Genomica_del_paisaje/pasos_en_R/filtros_post_ensamble/todos_snps_limpios.recode.vcf
+	--remove ind_eliminar_vcf.txt
+	--recode-INFO-all
+	--out GBS_data
+	--recode
+
+Excluding individuals in 'exclude' list
+After filtering, kept 372 out of 377 Individuals
+Outputting VCF file...
+After filtering, kept 1983 out of a possible 1983 Sites
+Run Time = 3.00 seconds

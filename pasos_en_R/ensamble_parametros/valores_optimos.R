@@ -1,11 +1,14 @@
-install.packages("adegenet", dependencies = T)
+###### paquetes  ####
+#install.packages("adegenet", dependencies = T)
 
 library(ade4)
 library(adegenet)
+library(vcfR)
+library(dartR)
 
-setwd("C:/Users/OmarS/OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO/IND_PNDL.2/ensamble/ensamble_parametros")
+##
 
-
+###### PCA y distancia ####
 # graficas para el mds con el valor de m3 en el ensamble de novo
 m3 <- read.table("mds_m3.mds", header=TRUE)
 
@@ -73,4 +76,56 @@ m5M2 <- read.table("mds_m5M2.mds", header=TRUE)
 m5M2$color <- colors
 plot(m5M2$C1, m5M2$C2)
 text(m5M2$C1, m5M2$C2, labels = m5M2$IID, pos = 4, col = m5M2$color )
+##
+##### find.cluster ##### 
+read_m3 <-  gl.read.vcf("m3.snps.vcf")
+read_m5 <-  gl.read.vcf("m5.snps.vcf")
+read_m7 <-  gl.read.vcf("m7.snps.vcf")
 
+
+# corremos find.cluster, se escoje un numero maximo de clusters por si existe un efecto placa,
+grp3 <- find.clusters(read_m3, max.n.clust = 4, n.pca = 10, choose = FALSE, stat = "BIC", method = "kmeans")
+plot(grp3$Kstat, type = "o", xlab = "numero de grupos (K)",
+     ylab = "BIC",
+     main = "find.clusters")
+grp3$grp
+dapcm3 <- dapc(read_m3, grp3$grp, n.pca = 10, n.da = 2) 
+scatter(dapcm3)
+
+
+grp5 <- find.clusters(read_m5, max.n.clust = 4, n.pca = 10, choose = FALSE, stat = "BIC", method = "kmeans")
+plot(grp5$Kstat, type = "o", xlab = "numero de grupos (K)",
+     ylab = "BIC",
+     main = "find.clusters")
+grp5$grp
+dapcm5 <- dapc(read_m5, grp5$grp, n.pca = 10, n.da = 2) 
+scatter(dapcm5)
+
+
+grp7 <- find.clusters(read_m7, max.n.clust = 9, n.pca = 10, choose = FALSE, stat = "BIC", method = "kmeans")
+plot(grp7$Kstat, type = "o", xlab = "numero de grupos (K)",
+     ylab = "BIC",
+     main = "find.clusters")
+grp7$grp
+dapcm7 <- dapc(read_m7, grp7$grp, n.pca = 10, n.da = 2) 
+scatter(dapcm7)
+
+
+m3_m2 <- gl.read.vcf("m3_M2.snps.vcf")
+m5_M2 <- gl.read.vcf("m5_M2.snps.vcf")
+
+grpm3_m2  <- find.clusters(m3_m2 , max.n.clust = 9, n.pca = 10, choose = FALSE, stat = "BIC", method = "kmeans")
+plot(grpm3_m2$Kstat, type = "o", xlab = "numero de grupos (K)",
+     ylab = "BIC",
+     main = "find.clusters")
+grpm3_m2$grp
+dapcm3_m2  <- dapc(m3_m2 , grpm3_m2$grp, n.pca = 10, n.da = 2) 
+scatter(dapcm3_m2)
+
+grpm5_M2 <- find.clusters(m5_M2, max.n.clust = 9, n.pca = 10, choose = FALSE, stat = "BIC", method = "kmeans")
+plot(grpm5_M2$Kstat, type = "o", xlab = "numero de grupos (K)",
+     ylab = "BIC",
+     main = "find.clusters")
+grpm5_M2$grp
+dapcm5_M2 <- dapc(m5_M2, grpm5_M2$grp, n.pca = 10, n.da = 2) 
+scatter(dapcm5_M2)

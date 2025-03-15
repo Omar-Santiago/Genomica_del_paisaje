@@ -1,0 +1,19 @@
+Summary of parameters and input files.
+Please check that all is correct while calculation is starting...
+
+There are 1983 loci.
+
+There are 4 populations.
+
+There are 91 individuals in population 1.
+There are 46 individuals in population 2.
+There are 33 individuals in population 3.
+There are 22 individuals in population 4.
+
+Burn in: 50000
+Thining interval: 10
+Sample size: 5000
+Resulting total number of iterations: 100000
+Nb of pilot runs: 20
+Length of each pilot run: 5000
+

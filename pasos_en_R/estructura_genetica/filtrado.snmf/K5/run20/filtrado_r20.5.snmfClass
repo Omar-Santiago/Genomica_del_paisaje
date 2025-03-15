@@ -1,5 +1,0 @@
-new("snmfClass", directory = "K5/run20/", snmfClass.file = "filtrado_r20.5.snmfClass", 
-    K = 5L, run = 20L, CPU = 1L, seed = 655298634L, alpha = 10, 
-    percentage = 0.05, I = 0L, iterations = 100L, entropy = TRUE, 
-    tolerance = 1e-05, crossEntropy = 0.60680727648149, ploidy = 2L, 
-    Q.input.file = "", Q.output.file = "filtrado_r20.5.Q", G.output.file = "filtrado_r20.5.G")
